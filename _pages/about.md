@@ -95,7 +95,7 @@ Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
 ## 📖 Educations
 
 - *2026.09 (expected)*, Ph.D. Student, College of AI, Tsinghua University
-- *2022.09 - 2026.06 （expected）*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
+- *2022.09 - 2026.06 (expected)*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
 
 ## 🔗 Links
 
