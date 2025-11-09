@@ -94,15 +94,10 @@ Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
 
 ## 📖 Educations
 
+- *2026.09 (expected)*, Ph.D. Student, College of AI, Tsinghua University
 - *2022.09 - present*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
 
 ## 🔗 Links
 
 * **Advisors:** [Jia Li](https://lj2lijia.github.io/) (THU), [Aishan Liu](https://liuaishan.github.io/) (BUAA)
 * **Friends:** [Zherui Li](https://zhrli324.github.io/) (BUPT), [Yiao Zhang](https://fisherder.top/) (BUPT), [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA)
-
-<!-- ## 💼 Academic Service
-
-<!-- # 💬 Invited Talks
-
-<!-- # 💻 Internships
