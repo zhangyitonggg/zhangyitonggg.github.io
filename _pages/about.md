@@ -27,7 +27,7 @@ If you’re interested in potential collaborations or would like to discuss anyt
 
 - *2025.11*: &nbsp;🎉 1 Paper (as **first author**) accepted by **AAAI 2026**.
 - *2025.10*: &nbsp;🎉 I was admitted to the College of AI, Tsinghua University for Ph.D. studies (comprehensive evaluation score: **95.8**).  
-- *2025.10*: &nbsp;🎉 I received the **National Scholarship** (for the **3th time**).
+- *2025.10*: &nbsp;🎉 I received the **National Scholarship** (for the **3rd time**).
 - *2024.11*: &nbsp;🎉 I received the **Xiaomi Scholarship Special Prize** (only **5 undergraduates** university-wide).
 - *2024.10*: &nbsp;🎉 My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
 
@@ -86,7 +86,7 @@ Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
 ## 🎖 Honors and Awards
 
 - **China National Scholarship (3rd times)**, *2025*
-- **China National Scholarship (2nd time)**, *2024*
+- **China National Scholarship (2nd times)**, *2024*
 - **Xiaomi Scholarship Special Prize** (only **5 undergraduates** university-wide), *2024*
 - **China National Scholarship**, *2023*
 - **First prize**, Chinese Mathematics Competitions for Undergraduates (Beijing Division), *2023*
@@ -95,7 +95,7 @@ Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
 ## 📖 Educations
 
 - *2026.09 (expected)*, Ph.D. Student, College of AI, Tsinghua University
-- *2022.09 - present*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
+- *2022.09 - 2026.06 （expected）*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
 
 ## 🔗 Links
 

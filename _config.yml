@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yitong Zhang (张奕彤)"
-description              : "Undergraduate Student, School of Computer Science and Engineering, Beihang University "
+title                    : "YT"
+description              : "A vast world where there is much to be accomplished."
 repository               : "zhangyitonggg/zhangyitonggg.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yitong Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tsinghua University & Beihang University"
+  bio              : "Beihang University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
