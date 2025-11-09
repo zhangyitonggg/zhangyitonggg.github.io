@@ -17,42 +17,92 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm Yitong Zhang (<font face=STSong>张奕彤</font>), an undergraduate student at [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). I will be pursuing my Ph.D. at [College of AI](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) starting next year. I am currently working under the supervision of Prof. [Jia Li](https://lj2lijia.github.io/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in AI for Software Engineering, Software Engineering for AI, and Trustworthy AI.
+If you’re interested in potential collaborations or would like to discuss anything, feel free to contact me via email.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 🔥 News
 
-# 📝 Publications 
+- *2025.11*: &nbsp;🎉 1 Paper (as **first author**) accepted by **AAAI 2026**.
+- *2025.10*: &nbsp;🎉 I was admitted to the College of AI, Tsinghua University for Ph.D. studies (comprehensive evaluation score: **95.8**).  
+- *2025.10*: &nbsp;🎉 I received the **National Scholarship** (for the **3th time**).
+- *2024.11*: &nbsp;🎉 I received the **Xiaomi Scholarship Special Prize** (only **5 undergraduates** university-wide).
+- *2024.10*: &nbsp;🎉 My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 📝 Publications 
+- **DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**\\
+**<u>Yitong Zhang</u>**, Jia Li, Liyi Cai, Ge Li\\
+**_AAAI 2026_**\\
+[[paper](https://arxiv.org/pdf/2506.09353)] [[code](https://github.com/zhangyitonggg/DAVSP)]
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models**\\
+Zherui Li, Zheng Nie, Zhenhong Zhou, Yufei Guo, Yue Liu, **<u>Yitong Zhang</u>**, Yu Cheng, Qingsong Wen, Kun Wang, Jiaheng Zhang\\
+**_NeurIPS 2025 Workshop_**\\
+[[paper](https://arxiv.org/pdf/2509.24296)] [[code](https://github.com/niez233/DiffuGuard)]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **AI-Driven Self-Evolving Software: A Promising Path Toward Software Automation**\\
+Liyi Cai\*, Yijie Ren\*, **<u>Yitong Zhang*</u>**, Jia Li\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2510.00591)] [[code](https://github.com/Cai-bird-one/live-software)]
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **DiffTester: Accelerating Unit Test Generation for Diffusion LLMs via Repetitive Pattern**\\
+Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2509.24975)] [[code](https://github.com/wellbeingyang/DLM4UTG-open)]
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation**\\
+Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li, Liyi Cai, Ge Li\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2509.11252)] [[code](https://github.com/zhangyitonggg/dllm4code)]
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Realistic Environmental Injection Attacks on GUI Agents**\\
+**<u>Yitong Zhang</u>**, Ximo Li, Liyi Cai, Jia Li\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2509.11250)] [[code](https://github.com/zhangyitonggg/attack2gui)]
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**\\
+Tianyuan Zhang, Lu Wang, Xinwei Zhang, **<u>Yitong Zhang</u>**, Boyi Jia, Siyuan Liang, Shengshan Hu, Aishan Liu, Xianglong Liu\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2411.18275)]
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **Enhancing the Transferability of Adversarial Attacks with Stealth Preservation**\\
+Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
+**_CVPR 2024 Workshop_**\\
+[[paper](https://openaccess.thecvf.com/content/CVPR2024W/AdvML/papers/Zhang_Enhancing_the_Transferability_of_Adversarial_Attacks_with_Stealth_Preservation_CVPRW_2024_paper.pdf)]
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- - ** **\\
+**<u>Yitong Zhang</u>**\\
+**_Preprint_**\\
+[[paper]()] [[code]()] -->
+
+## ✨ Grants
+
+- **Large Model Driven End-to-End Autonomous Driving Model Adversarial Attacks**\\
+**Principal Investigator**, Beijing Natural Science Foundation (Grant No. QY24136)\\
+*2024.10 - 2026.09*
+
+## 🎖 Honors and Awards
+
+- **China National Scholarship (3rd times)**, *2025*
+- **China National Scholarship (2nd time)**, *2024*
+- **Xiaomi Scholarship Special Prize** (only **5 undergraduates** university-wide), *2024*
+- **China National Scholarship**, *2023*
+- **First prize**, Chinese Mathematics Competitions for Undergraduates (Beijing Division), *2023*
+- **Outstanding Student of Shandong Province**, *2022*
+
+## 📖 Educations
+
+- *2022.09 - present*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
+
+## 🔗 Links
+
+* **Advisors:** [Jia Li](https://lj2lijia.github.io/) (THU), [Aishan Liu](https://liuaishan.github.io/) (BUAA)
+* **Friends:** [Zherui Li](https://zhrli324.github.io/) (BUPT), [Yiao Zhang](https://fisherder.top/) (BUPT), [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA)
+
+<!-- ## 💼 Academic Service
+
+<!-- # 💬 Invited Talks
+
+<!-- # 💻 Internships
