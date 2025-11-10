@@ -31,6 +31,10 @@ My research interests lie in AI for Software Engineering, Software Engineering f
 - *2024.10*: &nbsp;🎉 My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
 
 ## 📝 Selected Publications 
+
+<div class="pub-note" style="color:#888;font-size:0.98rem;margin:-1.2rem 0 1.2rem 2.2rem;">* indicates author with equal contribution</div>
+<div class="pub-note" style="color:#888;font-size:0.98rem;margin:-1.2rem 0 1.2rem 2.2rem;">† indicates corresponding author</div>
+
 - **DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**\\
 **<u>Yitong Zhang</u>**, Jia Li, Liyi Cai, Ge Li\\
 **_AAAI 2026_**\\
