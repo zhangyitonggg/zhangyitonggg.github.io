@@ -18,5 +18,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+  - title: "Services"
+    url: "/#-services"
+  
+  - title: "Teaching"
+    url: "/#-teaching"
+
   - title: "Links"
     url: "/#-links"
