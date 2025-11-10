@@ -32,8 +32,8 @@ My research interests lie in AI for Software Engineering, Software Engineering f
 
 ## 📝 Selected Publications 
 
-<div class="pub-note" style="color:#888;font-size:0.98rem;margin:-1.2rem 0 1.2rem 2.2rem;">* indicates author with equal contribution</div>
-<div class="pub-note" style="color:#888;font-size:0.98rem;margin:-1.2rem 0 1.2rem 2.2rem;">† indicates corresponding author</div>
+> \* indicates author with equal contribution
+> † indicates corresponding author
 
 - **DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**\\
 **<u>Yitong Zhang</u>**, Jia Li, Liyi Cai, Ge Li\\
