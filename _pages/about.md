@@ -100,6 +100,16 @@ Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
 - *2022.09 - 2026.06 (expected)*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
 - *2019.09 - 2022.06*, High School Student, Shandong Taian No.1 Senior High School
 
+## 📚 Services
+
+* Reviewer: AAAI 2026
+
+## 👩🏻‍🏫 Teaching
+
+* Teaching Assistant, Discrete Mathematics, Beihang University, Spring 2025
+* Teaching Assistant, Computer Organization, Beihang University, Fall 2024
+* Senior Teaching Assistant, Data Structures and Programming, Beihang University, Spring 2024
+
 ## 🔗 Links
 
 * **Advisors:** [Jia Li](https://lj2lijia.github.io/) (THU), [Aishan Liu](https://liuaishan.github.io/) (BUAA)
