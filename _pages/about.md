@@ -30,7 +30,7 @@ My research interests lie in AI for Software Engineering, Software Engineering f
 - *2024.11*: &nbsp;🎉 I received the **Xiaomi Scholarship Special Prize** (only **5 undergraduates** university-wide).
 - *2024.10*: &nbsp;🎉 My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
 
-## 📝 Publications 
+## 📝 Selected Publications 
 - **DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**\\
 **<u>Yitong Zhang</u>**, Jia Li, Liyi Cai, Ge Li\\
 **_AAAI 2026_**\\
@@ -84,8 +84,8 @@ Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
 
 ## 🎖 Honors and Awards
 
-- **China National Scholarship (3rd times)**, *2025*
-- **China National Scholarship (2nd times)**, *2024*
+- **China National Scholarship (3rd time)**, *2025*
+- **China National Scholarship (2nd time)**, *2024*
 - **Xiaomi Scholarship Special Prize** (only **5 undergraduates** university-wide), *2024*
 - **China National Scholarship**, *2023*
 - **First prize**, Chinese Mathematics Competitions for Undergraduates (Beijing Division), *2023*
