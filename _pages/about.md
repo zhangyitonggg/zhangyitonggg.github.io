@@ -36,7 +36,7 @@ My research interests lie in AI for Software Engineering, Software Engineering f
 
 - **DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**\\
 **<u>Yitong Zhang</u>**, Jia Li, Liyi Cai, Ge Li\\
-**_AAAI 2026_**\\
+**_AAAI 2026 <span style="color:#8B0000;"><b>Oral</b></span>_** \\
 [[paper](https://arxiv.org/pdf/2506.09353)] [[code](https://github.com/zhangyitonggg/DAVSP)]
 
 - **DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models**\\
@@ -113,4 +113,4 @@ Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
 ## 🔗 Links
 
 * **Advisors:** [Jia Li](https://lj2lijia.github.io/) (THU), [Aishan Liu](https://liuaishan.github.io/) (BUAA)
-* **Friends:** [Zherui Li](https://zhrli324.github.io/) (BUPT), [Yiao Zhang](https://fisherder.top/) (BUPT), [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA)
+* **Friends:** [Zherui Li](https://zhrli324.github.io/) (BUPT), [Yiao Zhang](https://fisherder.top/) (BUPT), [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA), [Yongkang Guo](https://yongkangguo.github.io/) (BUAA)
