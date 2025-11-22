@@ -24,6 +24,7 @@ My research interests lie in AI for Software Engineering, Software Engineering f
 
 ## 🔥 News
 
+- *2025.11*: &nbsp;🎉 I was awarded the Shen Yuan Medal, the highest student honor at Beihang University. Among all undergraduates at Beihang, only ten students received this distinction.
 - *2025.11*: &nbsp;🎉 1 Paper (as **first author**) accepted by **AAAI 2026**.
 - *2025.10*: &nbsp;🎉 I was admitted to the College of AI, Tsinghua University for Ph.D. studies (comprehensive evaluation score: **95.8**).  
 - *2025.10*: &nbsp;🎉 I received the **National Scholarship** (for the **3rd time**).
@@ -87,6 +88,7 @@ Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
 
 ## 🎖 Honors and Awards
 
+- **Shen Yuan Medal (top 0.1%)**, *2025* 
 - **China National Scholarship (3rd time)**, *2025*
 - **China National Scholarship (2nd time)**, *2024*
 - **Xiaomi Scholarship Special Prize** (only **5 undergraduates** university-wide), *2024*
