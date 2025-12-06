@@ -102,6 +102,10 @@ Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
 - *2022.09 - 2026.06 (expected)*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
 - *2019.09 - 2022.06*, High School Student, Shandong Taian No.1 Senior High School
 
+## 💼 Interns
+
+* *2025.12 - present*, Intern at [Fitten](https://code.fittentech.com/)
+
 ## 📚 Services
 
 * Reviewer: AAAI 2026
