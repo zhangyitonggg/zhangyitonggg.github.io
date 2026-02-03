@@ -49,7 +49,7 @@ Zherui Li, Zheng Nie, Zhenhong Zhou, Yufei Guo, Yue Liu, **<u>Yitong Zhang</u>**
 
 - **Lookahead-then-Verify: Reliable Constrained Decoding for Diffusion LLMs under Context-Free Grammars**\\
 **<u>Yitong Zhang</u>**, Yongmin Li, Yuetong Liu, Jia Li, Xiaoran Jia, Zherui Li, Ge Li\\
-**_Preprint__**\\
+**_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2602.00612)]
 
 - **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation**\\
