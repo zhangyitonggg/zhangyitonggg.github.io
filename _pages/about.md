@@ -47,6 +47,21 @@ Zherui Li, Zheng Nie, Zhenhong Zhou, Yufei Guo, Yue Liu, **<u>Yitong Zhang</u>**
 **_NeurIPS 2025 Workshop_**\\
 [[paper](https://arxiv.org/pdf/2509.24296)] [[code](https://github.com/niez233/DiffuGuard)]
 
+- **Lookahead-then-Verify: Reliable Constrained Decoding for Diffusion LLMs under Context-Free Grammars**\\
+**<u>Yitong Zhang</u>**, Yongmin Li, Yuetong Liu, Jia Li, Xiaoran Jia, Zherui Li, Ge Li\\
+**_Preprint__**\\
+[[paper](https://arxiv.org/pdf/2602.00612)]
+
+- **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation**\\
+Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li, Liyi Cai, Ge Li\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2509.11252)] [[code](https://github.com/zhangyitonggg/dllm4code)]
+
+- **Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments**\\
+**<u>Yitong Zhang</u>**, Ximo Li, Liyi Cai, Jia Li\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2509.11250)] [[code](https://github.com/zhangyitonggg/attack2gui)]
+
 - **AI-Driven Self-Evolving Software: A Promising Path Toward Software Automation**\\
 Liyi Cai\*, Yijie Ren\*, **<u>Yitong Zhang*</u>**, Jia Li\\
 **_Preprint_**\\
@@ -56,16 +71,6 @@ Liyi Cai\*, Yijie Ren\*, **<u>Yitong Zhang*</u>**, Jia Li\\
 Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2509.24975)] [[code](https://github.com/wellbeingyang/DLM4UTG-open)]
-
-- **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation**\\
-Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li, Liyi Cai, Ge Li\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2509.11252)] [[code](https://github.com/zhangyitonggg/dllm4code)]
-
-- **Realistic Environmental Injection Attacks on GUI Agents**\\
-**<u>Yitong Zhang</u>**, Ximo Li, Liyi Cai, Jia Li\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2509.11250)] [[code](https://github.com/zhangyitonggg/attack2gui)]
 
 - **Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**\\
 Tianyuan Zhang, Lu Wang, Xinwei Zhang, **<u>Yitong Zhang</u>**, Boyi Jia, Siyuan Liang, Shengshan Hu, Aishan Liu, Xianglong Liu\\
