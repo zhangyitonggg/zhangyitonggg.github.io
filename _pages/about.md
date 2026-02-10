@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yitong Zhang (<font face=STSong>张奕彤</font>), an undergraduate student at [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I rank 2nd in my college in required courses (2/241). I will be pursuing my Ph.D. at [College of AI](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) starting next year. I am currently working under the supervision of Prof. [Jia Li](https://lj2lijia.github.io/).
+I'm Yitong Zhang (<font face=STSong>张奕彤</font>), an undergraduate student at [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I rank 2nd in my college in required courses (2/241). I will be pursuing my Ph.D. at [College of AI](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). I am currently working under the supervision of Prof. [Jia Li](https://lj2lijia.github.io/).
 
-My research interests lie in Trustworthy Code Generation, AI for Software Engineering, and Software Engineering for AI. I am particularly passionate about improving the reliability and correctness of LLM-generated text and code. If you’re interested in potential collaborations or would like to discuss anything, feel free to contact me via email.
-
+My research interests lie in Trustworthy Code Generation, AI for Software Engineering, and Software Engineering for AI. I’m also broadly interested in anything related to AI. I am particularly passionate about improving the reliability and correctness of LLM-generated text and code. If you’re interested in potential collaborations or would like to discuss anything, feel free to contact me via email.
 
 ## 🔥 News
 
@@ -50,7 +49,7 @@ Zherui Li, Zheng Nie, Zhenhong Zhou, Yufei Guo, Yue Liu, **<u>Yitong Zhang</u>**
 - **Lookahead-then-Verify: Reliable Constrained Decoding for Diffusion LLMs under Context-Free Grammars**\\
 **<u>Yitong Zhang</u>**, Yongmin Li, Yuetong Liu, Jia Li, Xiaoran Jia, Zherui Li, Ge Li\\
 **_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2602.00612)]
+[[paper](https://arxiv.org/pdf/2602.00612)] [[code](https://github.com/zhangyitonggg/CD4dLLM)]
 
 - **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation**\\
 Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li, Liyi Cai, Ge Li\\
