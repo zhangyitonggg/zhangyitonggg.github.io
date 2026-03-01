@@ -66,7 +66,7 @@ Liyi Cai\*, Yijie Ren\*, **<u>Yitong Zhang*</u>**, Jia Li\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2510.00591)] [[code](https://github.com/Cai-bird-one/live-software)]
 
-- **DiffTester: Accelerating Unit Test Generation for Diffusion LLMs via Repetitive Pattern**\\
+- **DiffuTester: Accelerating Unit Test Generation for Diffusion LLMs via Mining Structural Pattern**\\
 Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2509.24975)] [[code](https://github.com/wellbeingyang/DLM4UTG-open)]
@@ -80,6 +80,22 @@ Tianyuan Zhang, Lu Wang, Xinwei Zhang, **<u>Yitong Zhang</u>**, Boyi Jia, Siyuan
 Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
 **_CVPR 2024 Workshop_**\\
 [[paper](https://openaccess.thecvf.com/content/CVPR2024W/AdvML/papers/Zhang_Enhancing_the_Transferability_of_Adversarial_Attacks_with_Stealth_Preservation_CVPRW_2024_paper.pdf)]
+
+- **Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamics Mechanisms and Efficient Alignment**\\
+Kun Wang, Zherui Li, Zhenhong Zhou, **<u>Yitong Zhang</u>**, Yan Mi, Kun Yang, Yiming Zhang, Junhao Dong, Zhongxiang Sun, Qiankun Li, Yang Liu\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2602.10161)]
+
+- **Improving Sampling for Masked Diffusion Models via Information Gain**\\
+Kaisen Yang, Jayden Teoh, Kaicheng Yang, **<u>Yitong Zhang</u>**, Alex Lamb\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2602.18176)]
+
+- **PackMonitor: Enabling Zero Package Hallucinations Through Decoding-Time Monitoring**\\
+Xiting Liu, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li, Shi-Min Hu\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2602.20717)]
+
 
 <!-- - ** **\\
 **<u>Yitong Zhang</u>**\\
