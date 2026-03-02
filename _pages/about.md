@@ -84,17 +84,17 @@ Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
 - **Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamics Mechanisms and Efficient Alignment**\\
 Kun Wang, Zherui Li, Zhenhong Zhou, **<u>Yitong Zhang</u>**, Yan Mi, Kun Yang, Yiming Zhang, Junhao Dong, Zhongxiang Sun, Qiankun Li, Yang Liu\\
 **_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2602.10161)]
+[[paper](https://arxiv.org/pdf/2602.10161)] [[code](https://github.com/zhrli324/omni-safety-research)]
 
 - **Improving Sampling for Masked Diffusion Models via Information Gain**\\
 Kaisen Yang, Jayden Teoh, Kaicheng Yang, **<u>Yitong Zhang</u>**, Alex Lamb\\
 **_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2602.18176)]
+[[paper](https://arxiv.org/pdf/2602.18176)] [[code](https://github.com/yks23/Information-Gain-Sampler)]
 
 - **PackMonitor: Enabling Zero Package Hallucinations Through Decoding-Time Monitoring**\\
 Xiting Liu, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li, Shi-Min Hu\\
 **_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2602.20717)]
+[[paper](https://arxiv.org/pdf/2602.20717)] [[code](https://github.com/TsinghuaISE/PackMonitor)]
 
 
 <!-- - ** **\\
