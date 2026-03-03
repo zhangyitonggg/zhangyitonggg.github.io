@@ -96,6 +96,11 @@ Xiting Liu, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li, Shi-Min Hu\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2602.20717)] [[code](https://github.com/TsinghuaISE/PackMonitor)]
 
+- **What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction**\\
+Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi Fan, **<u>Yitong Zhang</u>**, Jieping Ye, Chengqi Zhang, Yongshun Gong\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2603.01801)]
+
 
 <!-- - ** **\\
 **<u>Yitong Zhang</u>**\\
