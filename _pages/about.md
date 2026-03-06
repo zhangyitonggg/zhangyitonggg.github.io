@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yitong Zhang (<font face=STSong>张奕彤</font>), an undergraduate student at [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I rank 2nd in my college in required courses (2/241). I will be pursuing my Ph.D. at [College of AI](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). I am currently working under the supervision of Prof. [Jia Li](https://lj2lijia.github.io/).
+I'm Yitong Zhang (<font face=STSong>张奕彤</font>), an undergraduate student at [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I rank 2nd in my college in required courses (2/241). I will be pursuing my Ph.D. at [College of AI](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). I am currently working under the supervision of Prof. [Jia Li](https://lj2lijia.github.io/) and collaborate closely with [Zherui Li](https://zhrli324.github.io/).
 
-My research interests lie in Trustworthy Code Generation, AI for Software Engineering, and Software Engineering for AI. I’m also broadly interested in anything related to AI. I am particularly passionate about improving the reliability and correctness of LLM-generated text and code. If you’re interested in potential collaborations or would like to discuss anything, feel free to contact me via email.
+My research interests lie in Trustworthy AI, AI for Software Engineering, and Software Engineering for AI. I’m also broadly interested in anything related to AI. I am particularly passionate about improving the reliability of LLM-generated text and code. If you’re interested in potential collaborations or would like to discuss anything, feel free to contact me via email.
 
 ## 🔥 News
 
