@@ -146,5 +146,5 @@ Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi 
 
 ## 🔗 Links
 
-* **Advisors:** [Jia Li](https://lj2lijia.github.io/) (THU), [Aishan Liu](https://liuaishan.github.io/) (BUAA), [Fang Liu](https://liufang816.github.io/)
-* **Coauthors:** [Zherui Li](https://zhrli324.github.io/) (BUPT), [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA)
+* **Advisors:** [Jia Li](https://lj2lijia.github.io/) (THU), [Aishan Liu](https://liuaishan.github.io/) (BUAA), [Fang Liu](https://liufang816.github.io/) (BUAA)
+* **Coauthors:** [Zherui Li](https://zhrli324.github.io/) (BUPT), [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA), [Haorui Chen](https://scholar.google.com.hk/citations?user=bmaDDvwAAAAJ) (UESTC)
