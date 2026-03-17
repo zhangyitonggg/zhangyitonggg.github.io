@@ -38,7 +38,7 @@ My research interests lie in Trustworthy AI, AI for Software Engineering, and So
 - **To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation**\\
 **<u>Yitong Zhang*</u>**, Chengze Li*, Ruize Chen, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li\\
 **_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2603.15159v1)] [[code](https://github.com/contact-eniacode/PriCoder)]
+[[paper](https://arxiv.org/pdf/2603.15159)] [[code](https://github.com/eniacode/PriCoder)]
  
 - **DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**\\
 **<u>Yitong Zhang</u>**, Jia Li, Liyi Cai, Ge Li\\
