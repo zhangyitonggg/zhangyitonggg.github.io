@@ -36,7 +36,7 @@ My research interests lie in Trustworthy AI, AI for Software Engineering, and So
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
 - **To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation**\\
-**<u>Yitong Zhang*</u>**, Chengze Li*, Ruize Chen, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li**\\
+**<u>Yitong Zhang\*</u>**, Chengze Li*, Ruize Chen, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2603.15159v1)] [[code](https://github.com/contact-eniacode/PriCoder)]
  
