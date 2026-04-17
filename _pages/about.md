@@ -58,7 +58,7 @@ Xiting Liu, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li, Shi-Min Hu\\
 [[paper](https://arxiv.org/pdf/2506.09353)] [[code](https://github.com/zhangyitonggg/DAVSP)]
 
 - **DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models**\\
-Zherui Li, Zheng Nie, Zhenhong Zhou, Yufei Guo, Yue Liu, **<u>Yitong Zhang</u>**, Yu Cheng, Qingsong Wen, Kun Wang, Jiaheng Zhang\\
+Zherui Li, Zheng Nie, Zhenhong Zhou, Yue Liu, **<u>Yitong Zhang</u>**, Yu Cheng, Qingsong Wen, Kun Wang, Yufei Guo, Jiaheng Zhang\\
 **_ICLR 2026_**\\
 **_NeurIPS 2025 Workshop_**\\
 [[paper](https://arxiv.org/pdf/2509.24296)] [[code](https://github.com/niez233/DiffuGuard)]
