@@ -23,6 +23,7 @@ My research interests lie in Trustworthy AI, AI for Software Engineering, and So
 
 ## 🔥 News
 
+- *2026.04*: &nbsp;🎉 Two papers have been directly accepted by ISSTA 2026, and one paper are under major revision.
 - *2026.04*: &nbsp;🎉 I was awarded the **Beihang Youth May Fourth Medal**, **the highest honor for youth members at Beihang University**. Among all undergraduates at Beihang, only **10** students received this distinction.
 - *2026.01*: &nbsp;🎉 I was honored with the **Outstanding Student of Beijing**.
 - *2025.11*: &nbsp;🎉 I was awarded the **Shen Yuan Medal**, **the highest student honor at Beihang University**. Among all undergraduates at Beihang, only **10** students received this distinction.
@@ -35,6 +36,16 @@ My research interests lie in Trustworthy AI, AI for Software Engineering, and So
 ## 📝 Selected Publications 
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
+
+- **Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments**\\
+**<u>Yitong Zhang</u>**, Ximo Li, Liyi Cai, Jia Li\\
+**_ISSTA 2026_**\\
+[[paper](https://arxiv.org/pdf/2509.11250)] [[code](https://github.com/zhangyitonggg/attack2gui)]
+
+- **PackMonitor: Enabling Zero Package Hallucinations Through Decoding-Time Monitoring**\\
+Xiting Liu, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li, Shi-Min Hu\\
+**_ISSTA 2026_**\\
+[[paper](https://arxiv.org/pdf/2602.20717)] [[code](https://github.com/TsinghuaISE/PackMonitor)]
 
 - **To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation**\\
 **<u>Yitong Zhang*</u>**, Chengze Li*, Ruize Chen, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li\\
@@ -61,11 +72,6 @@ Zherui Li, Zheng Nie, Zhenhong Zhou, Yufei Guo, Yue Liu, **<u>Yitong Zhang</u>**
 Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li, Liyi Cai, Ge Li\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2509.11252)] [[code](https://github.com/zhangyitonggg/dllm4code)]
-
-- **Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments**\\
-**<u>Yitong Zhang</u>**, Ximo Li, Liyi Cai, Jia Li\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2509.11250)] [[code](https://github.com/zhangyitonggg/attack2gui)]
 
 - **AI-Driven Self-Evolving Software: A Promising Path Toward Software Automation**\\
 Liyi Cai\*, Yijie Ren\*, **<u>Yitong Zhang*</u>**, Jia Li\\
@@ -96,11 +102,6 @@ Kun Wang, Zherui Li, Zhenhong Zhou, **<u>Yitong Zhang</u>**, Yan Mi, Kun Yang, Y
 Kaisen Yang, Jayden Teoh, Kaicheng Yang, **<u>Yitong Zhang</u>**, Alex Lamb\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2602.18176)] [[code](https://github.com/yks23/Information-Gain-Sampler)]
-
-- **PackMonitor: Enabling Zero Package Hallucinations Through Decoding-Time Monitoring**\\
-Xiting Liu, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li, Shi-Min Hu\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2602.20717)] [[code](https://github.com/TsinghuaISE/PackMonitor)]
 
 - **What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction**\\
 Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi Fan, **<u>Yitong Zhang</u>**, Jieping Ye, Chengqi Zhang, Yongshun Gong\\
