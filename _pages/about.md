@@ -85,7 +85,7 @@ Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li\\
 
 - **Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**\\
 Tianyuan Zhang, Lu Wang, Xinwei Zhang, **<u>Yitong Zhang</u>**, Boyi Jia, Siyuan Liang, Shengshan Hu, Aishan Liu, Xianglong Liu\\
-**_Preprint_**\\
+**_Machine Intelligence Research_**\\
 [[paper](https://arxiv.org/pdf/2411.18275)]
 
 - **Enhancing the Transferability of Adversarial Attacks with Stealth Preservation**\\
