@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-selected-publications"
 
   - title: "Grants"
     url: "/#-grants"
@@ -17,6 +17,9 @@ main:
 
   - title: "Educations"
     url: "/#-educations"
+
+  - title: "Interns"
+    url: "/#-interns"
 
   - title: "Services"
     url: "/#-services"
