@@ -160,4 +160,4 @@ I am deeply grateful to the mentors I met during my undergraduate and doctoral j
   
 Over the past few years, I have also been fortunate to meet many friends who have walked alongside me through both challenges and milestones.
 
-* **Friends:** [Zherui Li](https://zhrli324.github.io/) (BUPT), [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA), [Xiongwei Zhu](https://everettxwzhu.github.io/), [Lehui Li](https://github.com/Amitica) (SDU), [Haorui Chen](https://scholar.google.com.hk/citations?user=bmaDDvwAAAAJ) (UESTC)
+* **Friends:** [Zherui Li](https://zhrli324.github.io/) (BUPT),  [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA), [Xiongwei Zhu](https://everettxwzhu.github.io/) (BUAA), [Lehui Li](https://github.com/Amitica) (SDU), [Haorui Chen](https://scholar.google.com.hk/citations?user=bmaDDvwAAAAJ) (UESTC)
