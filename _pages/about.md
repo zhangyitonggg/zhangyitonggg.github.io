@@ -154,5 +154,10 @@ Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi 
 
 ## 🔗 Links
 
+I am deeply grateful to the mentors I met during my undergraduate and doctoral journey, whose guidance and support have shaped my growth.
+
 * **Advisors:** [Jia Li](https://lj2lijia.github.io/) (THU), [Aishan Liu](https://liuaishan.github.io/) (BUAA), [Fang Liu](https://liufang816.github.io/) (BUAA)
-* **Coauthors:** [Zherui Li](https://zhrli324.github.io/) (BUPT), [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA), [Haorui Chen](https://scholar.google.com.hk/citations?user=bmaDDvwAAAAJ) (UESTC)
+  
+Over the past few years, I have also been fortunate to meet many friends who have walked alongside me through both challenges and milestones.
+
+* **Friends:** [Zherui Li](https://zhrli324.github.io/) (BUPT), [Zhuohang Bian](https://zhhangbian.github.io/) (BUAA), [Xiongwei Zhu](https://everettxwzhu.github.io/), [Haorui Chen](https://scholar.google.com.hk/citations?user=bmaDDvwAAAAJ) (UESTC) 
