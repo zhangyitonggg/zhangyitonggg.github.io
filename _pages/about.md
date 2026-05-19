@@ -23,6 +23,7 @@ My research interests lie in Trustworthy AI and Trustworthy Intelligent Software
 
 ## 🔥 News
 
+- *2026.05*: &nbsp;🎉 I was awarded the **Tsinghua Doctoral Fellowship for Future Scholars**, with only **4** recipients in the College of AI in 2026.
 - *2026.04*: &nbsp;🎉 Two papers have been directly accepted by ISSTA 2026, and one paper are under major revision.
 - *2026.04*: &nbsp;🎉 I was awarded the **Beihang Youth May Fourth Medal**, **the highest honor for youth members at Beihang University**. Among all undergraduates at Beihang, only **10** students received this distinction.
 - *2026.01*: &nbsp;🎉 I was honored with the **Outstanding Student of Beijing**.
@@ -122,6 +123,7 @@ Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi 
 
 ## 🎖 Honors and Awards
 
+- **Tsinghua Doctoral Fellowship for Future Scholars**, *2026*
 - **Shen Yuan Medal (top 0.1%), the highest honor scholarship of Beihang University**, *2025* 
 - **Beihang Youth May Fourth Medal, the highest honor for youth members at Beihang University**, *2026*
 - **Xiaomi Scholarship Special Prize** (only **5 undergraduates** university-wide), *2024*
