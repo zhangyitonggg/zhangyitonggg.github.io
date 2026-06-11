@@ -38,6 +38,16 @@ My research interests lie in Trustworthy AI and Trustworthy Intelligent Software
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
+- **Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code**\\
+**<u>Yitong Zhang*</u>**, Shiteng Lu*, Jia Li
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2606.11817)] [[code](https://github.com/TsinghuaISE/CodeSpear-CodeShield)]
+
+- **Lookahead-then-Verify: Reliable Constrained Decoding for Diffusion LLMs under Context-Free Grammars**\\
+**<u>Yitong Zhang</u>**, Yongmin Li, Yuetong Liu, Jia Li, Xiaoran Jia, Zherui Li, Ge Li\\
+**_ISSTA 2026_**\\
+[[paper](https://arxiv.org/pdf/2602.00612)] [[code](https://github.com/zhangyitonggg/CD4dLLM)]
+
 - **Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments**\\
 **<u>Yitong Zhang</u>**, Ximo Li, Liyi Cai, Jia Li\\
 **_ISSTA 2026_**\\
@@ -48,26 +58,21 @@ Xiting Liu, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li, Shi-Min Hu\\
 **_ISSTA 2026_**\\
 [[paper](https://arxiv.org/pdf/2602.20717)] [[code](https://github.com/TsinghuaISE/PackMonitor)]
 
-- **To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation**\\
-**<u>Yitong Zhang*</u>**, Chengze Li*, Ruize Chen, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2603.15159)] [[code](https://github.com/eniacode/PriCoder)]
- 
 - **DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**\\
 **<u>Yitong Zhang</u>**, Jia Li, Liyi Cai, Ge Li\\
 **_AAAI 2026 <span style="color:#8B0000;"><b>Oral</b></span>_** \\
 [[paper](https://arxiv.org/pdf/2506.09353)] [[code](https://github.com/zhangyitonggg/DAVSP)]
+
+- **To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation**\\
+**<u>Yitong Zhang*</u>**, Chengze Li*, Ruize Chen, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2603.15159)] [[code](https://github.com/eniacode/PriCoder)]
 
 - **DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models**\\
 Zherui Li, Zheng Nie, Zhenhong Zhou, Yue Liu, **<u>Yitong Zhang</u>**, Yu Cheng, Qingsong Wen, Kun Wang, Yufei Guo, Jiaheng Zhang\\
 **_ICLR 2026_**\\
 **_NeurIPS 2025 Workshop_**\\
 [[paper](https://arxiv.org/pdf/2509.24296)] [[code](https://github.com/niez233/DiffuGuard)]
-
-- **Lookahead-then-Verify: Reliable Constrained Decoding for Diffusion LLMs under Context-Free Grammars**\\
-**<u>Yitong Zhang</u>**, Yongmin Li, Yuetong Liu, Jia Li, Xiaoran Jia, Zherui Li, Ge Li\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2602.00612)] [[code](https://github.com/zhangyitonggg/CD4dLLM)]
 
 - **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation**\\
 Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li, Liyi Cai, Ge Li\\
