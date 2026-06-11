@@ -39,7 +39,7 @@ My research interests lie in Trustworthy AI and Trustworthy Intelligent Software
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
 - **Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code**\\
-**<u>Yitong Zhang*</u>**, Shiteng Lu*, Jia Li
+**<u>Yitong Zhang*</u>**, Shiteng Lu*, Jia Li\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2606.11817)] [[code](https://github.com/TsinghuaISE/CodeSpear-CodeShield)]
 
