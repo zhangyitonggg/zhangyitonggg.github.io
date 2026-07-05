@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yitong Zhang (<font face=STSong>张奕彤</font>), a Ph.D. student at [College of AI](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). Before that, I received my undergraduate education at [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I ranked 2nd in my college in required courses (2/241). I am currently working under the supervision of Prof. [Jia Li](https://lj2lijia.github.io/), who leads the [Tsinghua AI Agent Group](https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/AI_Agentktz.htm), and collaborate closely with [Zherui](https://zhrli324.github.io/).
+I'm Yitong Zhang (<font face=STSong>张奕彤</font>), a Ph.D. student at [College of AI](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). Before that, I received my undergraduate education at [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I ranked 2nd in my college in required courses (2/241). I am currently working under the supervision of Prof. [Jia Li](https://lj2lijia.github.io/), and collaborate closely with [Zherui](https://zhrli324.github.io/).
 
-My research interests lie in Trustworthy AI and Trustworthy Intelligent Software Engineering. More broadly, I am interested in AI-related topics in general. If you are interested in potential collaborations or would like to discuss anything, please feel free to reach out via email. Here is my [CV](/assets/CV.pdf).
+My research interests center on developing trustworthy AI systems for real-world deployment. More broadly, I am interested in AI-related topics in general. If you are interested in potential collaborations or would like to discuss anything, please feel free to reach out via email. Here is my [CV](/assets/CV.pdf).
 
 ## 🔥 News
 
