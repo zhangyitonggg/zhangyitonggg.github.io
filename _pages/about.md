@@ -38,11 +38,11 @@ My research interests center on developing trustworthy AI systems for real-world
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
-- **CoACT: Action-Preserving Observation Compression for Coding Agents
-**\\
+- **CoACT: Action-Preserving Observation Compression for Coding Agents**\\
 Haorui Chen, Yuancheng Zhu, **<u>Yitong Zhang</u>**, Jia Li\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2607.02911)] [[code](https://github.com/TsinghuaISE/CoACT)]
+
 - **Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code**\\
 **<u>Yitong Zhang*</u>**, Shiteng Lu*, Jia Li\\
 **_Preprint_**\\
