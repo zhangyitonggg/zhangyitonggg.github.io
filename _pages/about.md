@@ -169,6 +169,6 @@ Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi 
 
 * **Advisors:** [Jia Li](https://lj2lijia.github.io/) (THU), [Xingwei Lin](https://xwlin-roy.github.io/) (Ant Group), [Aishan Liu](https://liuaishan.github.io/) (BUAA), [Fang Liu](https://liufang816.github.io/) (BUAA)
   
-* **CoAuthor:** [Zherui Li](https://zhrli324.github.io/) (BUPT), [Tianyuan Zhang](https://tianyuan2001.github.io/) (BUAA), [Lehui Li](https://github.com/Amitica) (SDU)
+* **CoAuthor:** [Zherui Li](https://zhrli324.github.io/) (NTU), [Tianyuan Zhang](https://tianyuan2001.github.io/) (BUAA), [Lehui Li](https://github.com/Amitica) (THU)
 
 *In the age of artificial intelligence, I strive to advance technology for the greater good, for safe and controllable progress, and for the benefit of the people (<font face=STSong>推动科技向上向善、安全可控、造福人民</font>).*
