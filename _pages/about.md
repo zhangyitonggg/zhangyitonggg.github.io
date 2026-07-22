@@ -38,6 +38,16 @@ My research interests center on developing trustworthy AI systems for real-world
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
+- **Improving Sampling for Masked Diffusion Models via Information Gain**\\
+Kaisen Yang, Jayden Teoh, Kaicheng Yang, **<u>Yitong Zhang</u>**, Alex Lamb\\
+**_ICML 2026_**\\
+[[paper](https://arxiv.org/pdf/2602.18176)] [[code](https://github.com/yks23/Information-Gain-Sampler)]
+
+- **Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**\\
+Tianyuan Zhang, Lu Wang, Xinwei Zhang, **<u>Yitong Zhang</u>**, Boyi Jia, Siyuan Liang, Shengshan Hu, Aishan Liu, Xianglong Liu\\
+**_Machine Intelligence Research_**\\
+[[paper](https://arxiv.org/pdf/2411.18275)]
+
 - **CoACT: Action-Preserving Observation Compression for Coding Agents**\\
 Haorui Chen, Yuancheng Zhu, **<u>Yitong Zhang</u>**, Jia Li\\
 **_Preprint_**\\
@@ -94,11 +104,6 @@ Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2509.24975)] [[code](https://github.com/wellbeingyang/DLM4UTG-open)]
 
-- **Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**\\
-Tianyuan Zhang, Lu Wang, Xinwei Zhang, **<u>Yitong Zhang</u>**, Boyi Jia, Siyuan Liang, Shengshan Hu, Aishan Liu, Xianglong Liu\\
-**_Machine Intelligence Research_**\\
-[[paper](https://arxiv.org/pdf/2411.18275)]
-
 - **Enhancing the Transferability of Adversarial Attacks with Stealth Preservation**\\
 Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
 **_CVPR 2024 Workshop_**\\
@@ -109,10 +114,6 @@ Kun Wang, Zherui Li, Zhenhong Zhou, **<u>Yitong Zhang</u>**, Yan Mi, Kun Yang, Y
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2602.10161)] [[code](https://github.com/zhrli324/omni-safety-research)]
 
-- **Improving Sampling for Masked Diffusion Models via Information Gain**\\
-Kaisen Yang, Jayden Teoh, Kaicheng Yang, **<u>Yitong Zhang</u>**, Alex Lamb\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2602.18176)] [[code](https://github.com/yks23/Information-Gain-Sampler)]
 
 - **What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction**\\
 Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi Fan, **<u>Yitong Zhang</u>**, Jieping Ye, Chengqi Zhang, Yongshun Gong\\
