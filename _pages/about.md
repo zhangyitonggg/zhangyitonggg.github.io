@@ -23,16 +23,17 @@ My research interests center on developing trustworthy AI systems for real-world
 
 ## 🔥 News
 
-- *2026.05*: &nbsp;🎉 I was awarded the **Tsinghua Doctoral Fellowship for Future Scholars**, with only **4** recipients in the College of AI in 2026.
-- *2026.04*: &nbsp;🎉 Two papers have been directly accepted by ISSTA 2026, and one paper are under major revision.
-- *2026.04*: &nbsp;🎉 I was awarded the **Beihang Youth May Fourth Medal**, **the highest honor for youth members at Beihang University**. Among all undergraduates at Beihang, only **10** students received this distinction.
-- *2026.01*: &nbsp;🎉 I was honored with the **Outstanding Student of Beijing**.
-- *2025.11*: &nbsp;🎉 I was awarded the **Shen Yuan Medal**, **the highest student honor at Beihang University**. Among all undergraduates at Beihang, only **10** students received this distinction.
-- *2025.11*: &nbsp;🎉 1 Paper (as **first author**) accepted by **AAAI 2026**.
-- *2025.10*: &nbsp;🎉 I was admitted to the College of AI, Tsinghua University for Ph.D. studies (comprehensive evaluation score: **95.8**).  
-- *2025.10*: &nbsp;🎉 I received the **National Scholarship** (for the **3rd time**).
-- *2024.11*: &nbsp;🎉 I received the **Xiaomi Scholarship Special Prize** (only **5 undergraduates** university-wide).
-- *2024.10*: &nbsp;🎉 My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
+- *2026.08*: I received the **CCF Elite Collegiate Award**.
+- *2026.05*: I was awarded the **Tsinghua Doctoral Fellowship for Future Scholars**, with only **4** recipients in the College of AI in 2026.
+- *2026.04*: Two papers have been directly accepted by ISSTA 2026, and one paper are under major revision.
+- *2026.04*: I was awarded the **Beihang Youth May Fourth Medal** (only **10 undergraduates** university-wide).
+- *2026.01*: I was honored with the **Outstanding Student of Beijing**.
+- *2025.11*: I was awarded the **Shen Yuan Medal**, **the highest student honor at Beihang University**. Among all undergraduates at Beihang, only **10** students received this distinction.
+- *2025.11*: 1 Paper (as **first author**) accepted by **AAAI 2026 Oral**.
+- *2025.10*: I was admitted to the College of AI, Tsinghua University for Ph.D. studies (comprehensive evaluation score: **95.8**).  
+- *2025.10*: I received the **National Scholarship** (for the **3rd time**).
+- *2024.11*: I received the **Xiaomi Scholarship Special Prize**.
+- *2024.10*: My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
 
 ## 📝 Selected Publications 
 
@@ -114,12 +115,15 @@ Kun Wang, Zherui Li, Zhenhong Zhou, **<u>Yitong Zhang</u>**, Yan Mi, Kun Yang, Y
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2602.10161)] [[code](https://github.com/zhrli324/omni-safety-research)]
 
+- **Benchmarking the Robustness of Autonomous Driving to Environmental Illusions: A Lane Perception Perspective**\\
+Tianyuan Zhang, Xianglong Liu✉︎, Aishan Liu, Lu Wang, **<u>Yitong Zhang</u>**, Peng Yue, Mingchuan Zhang, Siyuan Liang, Dacheng Tao\\
+**TPAMI**\\
+[[paper](https://ieeexplore.ieee.org/document/11595247)]
 
 - **What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction**\\
 Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi Fan, **<u>Yitong Zhang</u>**, Jieping Ye, Chengqi Zhang, Yongshun Gong\\
 **_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2603.01801)]
-
+[[paper](https://arxiv.org/pdf/2603.01801)] [[code](https://tianyuan2001.github.io/lanevilpp.github.io/)]
 
 <!-- - ** **\\
 **<u>Yitong Zhang</u>**\\
@@ -137,6 +141,7 @@ Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi 
 - **Tsinghua Doctoral Fellowship for Future Scholars**, *2026*
 - **Shen Yuan Medal (top 0.1%), the highest honor scholarship of Beihang University**, *2025* 
 - **Beihang Youth May Fourth Medal, the highest honor for youth members at Beihang University**, *2026*
+- **CCF Elite Collegiate Award**, *2026*
 - **Xiaomi Scholarship Special Prize** (only **5 undergraduates** university-wide), *2024*
 - **China National Scholarship (3rd time)**, *2025*
 - **China National Scholarship (2nd time)**, *2024*
@@ -153,7 +158,7 @@ Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi 
 
 ## 💼 Interns
 
-* *2026.06*, Research Intern at [Ant Group](https://www.antgroup.com/en)
+* *2026.06 - 2026.08*, Research Intern at [Ant Group](https://www.antgroup.com/en)
 * *2025.12 - 2026.03*, Research Intern at [Fitten](https://code.fittentech.com/)
 
 ## 📚 Services
