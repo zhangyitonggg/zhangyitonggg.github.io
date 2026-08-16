@@ -25,11 +25,11 @@ My research interests center on developing trustworthy AI systems for real-world
 
 - *2026.08*: I received the **CCF Elite Collegiate Award**.
 - *2026.05*: I was awarded the **Tsinghua Doctoral Fellowship for Future Scholars**, with only **4** recipients in the College of AI in 2026.
-- *2026.04*: Two papers have been directly accepted by ISSTA 2026, and one paper are under major revision.
+- *2026.04*: Two papers have been directly accepted by ISSTA 2026, and one paper is under major revision.
 - *2026.04*: I was awarded the **Beihang Youth May Fourth Medal** (only **10 undergraduates** university-wide).
 - *2026.01*: I was honored with the **Outstanding Student of Beijing**.
 - *2025.11*: I was awarded the **Shen Yuan Medal**, **the highest student honor at Beihang University**. Among all undergraduates at Beihang, only **10** students received this distinction.
-- *2025.11*: 1 Paper (as **first author**) accepted by **AAAI 2026 Oral**.
+- *2025.11*: 1 Paper (as **first author**) accepted by **AAAI 2026 (Oral)**.
 - *2025.10*: I was admitted to the College of AI, Tsinghua University for Ph.D. studies (comprehensive evaluation score: **95.8**).  
 - *2025.10*: I received the **National Scholarship** (for the **3rd time**).
 - *2024.11*: I received the **Xiaomi Scholarship Special Prize**.
@@ -40,90 +40,90 @@ My research interests center on developing trustworthy AI systems for real-world
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
 - **Improving Sampling for Masked Diffusion Models via Information Gain**\\
-Kaisen Yang, Jayden Teoh, Kaicheng Yang, **<u>Yitong Zhang</u>**, Alex Lamb\\
+Kaisen Yang, Jayden Teoh, Kaicheng Yang, **<u>Yitong Zhang</u>**, Alex Lamb†\\
 **_ICML 2026_**\\
 [[paper](https://arxiv.org/pdf/2602.18176)] [[code](https://github.com/yks23/Information-Gain-Sampler)]
 
 - **Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**\\
-Tianyuan Zhang, Lu Wang, Xinwei Zhang, **<u>Yitong Zhang</u>**, Boyi Jia, Siyuan Liang, Shengshan Hu, Aishan Liu, Xianglong Liu\\
+Tianyuan Zhang\*, Lu Wang\*, Xinwei Zhang, **<u>Yitong Zhang</u>**, Boyi Jia, Siyuan Liang, Shengshan Hu, Qiang Fu, Aishan Liu†, Xianglong Liu\\
 **_Machine Intelligence Research_**\\
 [[paper](https://arxiv.org/pdf/2411.18275)]
 
 - **CoACT: Action-Preserving Observation Compression for Coding Agents**\\
-Haorui Chen, Yuancheng Zhu, **<u>Yitong Zhang</u>**, Jia Li\\
+Haorui Chen, Yuancheng Zhu, **<u>Yitong Zhang</u>**, Jia Li†\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2607.02911)] [[code](https://github.com/TsinghuaISE/CoACT)]
 
 - **Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code**\\
-**<u>Yitong Zhang*</u>**, Shiteng Lu*, Jia Li\\
+**<u>Yitong Zhang*</u>**, Shiteng Lu\*, Jia Li†\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2606.11817)] [[code](https://github.com/TsinghuaISE/CodeSpear-CodeShield)]
 
 - **Lookahead-then-Verify: Reliable Constrained Decoding for Diffusion LLMs under Context-Free Grammars**\\
-**<u>Yitong Zhang</u>**, Yongmin Li, Yuetong Liu, Jia Li, Xiaoran Jia, Zherui Li, Ge Li\\
+**<u>Yitong Zhang</u>**, Yongmin Li, Yuetong Liu, Jia Li†, Xiaoran Jia, Zherui Li, Ge Li\\
 **_ISSTA 2026_**\\
 [[paper](https://arxiv.org/pdf/2602.00612)] [[code](https://github.com/zhangyitonggg/CD4dLLM)]
 
 - **Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments**\\
-**<u>Yitong Zhang</u>**, Ximo Li, Liyi Cai, Jia Li\\
+**<u>Yitong Zhang</u>**, Ximo Li, Liyi Cai, Jia Li†\\
 **_ISSTA 2026_**\\
 [[paper](https://arxiv.org/pdf/2509.11250)] [[code](https://github.com/zhangyitonggg/attack2gui)]
 
 - **PackMonitor: Enabling Zero Package Hallucinations Through Decoding-Time Monitoring**\\
-Xiting Liu, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li, Shi-Min Hu\\
+Xiting Liu, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li†, Shi-Min Hu†\\
 **_ISSTA 2026_**\\
 [[paper](https://arxiv.org/pdf/2602.20717)] [[code](https://github.com/TsinghuaISE/PackMonitor)]
 
 - **DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**\\
-**<u>Yitong Zhang</u>**, Jia Li, Liyi Cai, Ge Li\\
+**<u>Yitong Zhang</u>**, Jia Li†, Liyi Cai, Ge Li\\
 **_AAAI 2026 <span style="color:#8B0000;"><b>Oral</b></span>_** \\
 [[paper](https://arxiv.org/pdf/2506.09353)] [[code](https://github.com/zhangyitonggg/DAVSP)]
 
 - **To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation**\\
-**<u>Yitong Zhang*</u>**, Chengze Li*, Ruize Chen, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li\\
+**<u>Yitong Zhang*</u>**, Chengze Li\*, Ruize Chen\*, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li†\\
 **_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2603.15159)] [[code](https://github.com/eniacode/PriCoder)]
+[[paper](https://arxiv.org/pdf/2603.15159)] [[code](https://github.com/THU-Agent/PriCoder)]
 
 - **DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models**\\
-Zherui Li, Zheng Nie, Zhenhong Zhou, Yue Liu, **<u>Yitong Zhang</u>**, Yu Cheng, Qingsong Wen, Kun Wang, Yufei Guo, Jiaheng Zhang\\
+Zherui Li\*, Zheng Nie\*, Zhenhong Zhou, Yue Liu, **<u>Yitong Zhang</u>**, Yu Cheng, Qingsong Wen, Kun Wang†, Yufei Guo†, Jiaheng Zhang\\
 **_ICLR 2026_**\\
 **_NeurIPS 2025 Workshop_**\\
 [[paper](https://arxiv.org/pdf/2509.24296)] [[code](https://github.com/niez233/DiffuGuard)]
 
 - **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation**\\
-Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li, Liyi Cai, Ge Li\\
+Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li†, Liyi Cai, Ge Li\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2509.11252)] [[code](https://github.com/zhangyitonggg/dllm4code)]
 
 - **AI-Driven Self-Evolving Software: A Promising Path Toward Software Automation**\\
-Liyi Cai\*, Yijie Ren\*, **<u>Yitong Zhang*</u>**, Jia Li\\
+Liyi Cai\*, Yijie Ren\*, **<u>Yitong Zhang*</u>**, Jia Li†\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2510.00591)] [[code](https://github.com/Cai-bird-one/live-software)]
 
 - **DiffuTester: Accelerating Unit Test Generation for Diffusion LLMs via Mining Structural Pattern**\\
-Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li\\
+Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li†\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2509.24975)] [[code](https://github.com/wellbeingyang/DLM4UTG-open)]
 
 - **Enhancing the Transferability of Adversarial Attacks with Stealth Preservation**\\
-Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu\\
+Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu†\\
 **_CVPR 2024 Workshop_**\\
 [[paper](https://openaccess.thecvf.com/content/CVPR2024W/AdvML/papers/Zhang_Enhancing_the_Transferability_of_Adversarial_Attacks_with_Stealth_Preservation_CVPRW_2024_paper.pdf)]
 
 - **Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamics Mechanisms and Efficient Alignment**\\
-Kun Wang, Zherui Li, Zhenhong Zhou, **<u>Yitong Zhang</u>**, Yan Mi, Kun Yang, Yiming Zhang, Junhao Dong, Zhongxiang Sun, Qiankun Li, Yang Liu\\
+Kun Wang\*, Zherui Li\*, Zhenhong Zhou, **<u>Yitong Zhang</u>**, Yan Mi, Kun Yang, Yiming Zhang, Junhao Dong, Zhongxiang Sun, Qiankun Li, Yang Liu\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2602.10161)] [[code](https://github.com/zhrli324/omni-safety-research)]
 
 - **Benchmarking the Robustness of Autonomous Driving to Environmental Illusions: A Lane Perception Perspective**\\
-Tianyuan Zhang, Xianglong Liu✉︎, Aishan Liu, Lu Wang, **<u>Yitong Zhang</u>**, Peng Yue, Mingchuan Zhang, Siyuan Liang, Dacheng Tao\\
+Tianyuan Zhang, Xianglong Liu†, Aishan Liu, Lu Wang, **<u>Yitong Zhang</u>**, Peng Yue, Mingchuan Zhang, Siyuan Liang, Dacheng Tao\\
 **TPAMI**\\
-[[paper](https://ieeexplore.ieee.org/document/11595247)]
+[[paper](https://ieeexplore.ieee.org/document/11595247)] [[code](https://tianyuan2001.github.io/lanevilpp.github.io/)]
 
 - **What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction**\\
-Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi Fan, **<u>Yitong Zhang</u>**, Jieping Ye, Chengqi Zhang, Yongshun Gong\\
+Lehui Li\*, Ruining Wang\*, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi Fan, **<u>Yitong Zhang</u>**, Jieping Ye, Chengqi Zhang, Yongshun Gong†\\
 **_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2603.01801)] [[code](https://tianyuan2001.github.io/lanevilpp.github.io/)]
+[[paper](https://arxiv.org/pdf/2603.01801)] 
 
 <!-- - ** **\\
 **<u>Yitong Zhang</u>**\\
@@ -150,13 +150,13 @@ Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi 
 - **Outstanding Student of Beijing**, *2026*
 - **Outstanding Student of Shandong**, *2022*
 
-## 📖 Educations
+## 📖 Education
 
 - *2026.09 - 2031.06 (expected)*, Ph.D. Student, College of AI, Tsinghua University
 - *2022.09 - 2026.06*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
 - *2019.09 - 2022.06*, High School Student, Shandong Taian No.1 Senior High School
 
-## 💼 Interns
+## 💼 Internships
 
 * *2026.06 - 2026.08*, Research Intern at [Ant Group](https://www.antgroup.com/en)
 * *2025.12 - 2026.03*, Research Intern at [Fitten](https://code.fittentech.com/)
@@ -171,10 +171,14 @@ Lehui Li, Ruining Wang, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi 
 * Teaching Assistant, Computer Organization, Beihang University, Fall 2024
 * Senior Teaching Assistant, Data Structures and Programming, Beihang University, Spring 2024
 
+## 🌿 Personality
+
+In my spare time, I take food very seriously—my very high Engel's coefficient says it all. When I am not eating, I am usually listening to folk or rock music, or walking aimlessly around Beijing with friends.
+
 ## 🔗 Links
 
 * **Advisors:** [Jia Li](https://lj2lijia.github.io/) (THU), [Xingwei Lin](https://xwlin-roy.github.io/) (Ant Group), [Aishan Liu](https://liuaishan.github.io/) (BUAA), [Fang Liu](https://liufang816.github.io/) (BUAA)
   
-* **CoAuthor:** [Zherui Li](https://zhrli324.github.io/) (NTU), [Tianyuan Zhang](https://tianyuan2001.github.io/) (BUAA), [Lehui Li](https://github.com/Amitica) (THU)
+* **Co-authors:** [Zherui Li](https://zhrli324.github.io/) (NTU), [Tianyuan Zhang](https://tianyuan2001.github.io/) (BUAA), [Lehui Li](https://github.com/Amitica) (THU)
 
 *In the age of artificial intelligence, I strive to advance technology for the greater good, for safe and controllable progress, and for the benefit of the people (<font face=STSong>推动科技向上向善、安全可控、造福人民</font>).*
