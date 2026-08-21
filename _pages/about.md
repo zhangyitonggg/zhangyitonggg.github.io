@@ -39,6 +39,15 @@ My research interests center on developing trustworthy AI systems for real-world
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
+- **DiffuTester: Accelerating Unit Test Generation for Diffusion LLMs via Mining Structural Pattern**\\
+Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li†\\
+**_EMNLP MAIN 2026_**\\
+[[paper](https://arxiv.org/pdf/2509.24975)] [[code](https://github.com/wellbeingyang/DLM4UTG-open)]
+
+- **DiffuCD: Efficient Contrastive Decoding for Diffusion Language Models**\\
+Jia Li, **<u>Yitong Zhang</u>**, Zhi Jin†\\
+**_Journal of Software_**\\
+
 - **Improving Sampling for Masked Diffusion Models via Information Gain**\\
 Kaisen Yang, Jayden Teoh, Kaicheng Yang, **<u>Yitong Zhang</u>**, Alex Lamb†\\
 **_ICML 2026_**\\
@@ -99,11 +108,6 @@ Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li†, Liyi Cai, Ge Li\\
 Liyi Cai\*, Yijie Ren\*, **<u>Yitong Zhang*</u>**, Jia Li†\\
 **_Preprint_**\\
 [[paper](https://arxiv.org/pdf/2510.00591)] [[code](https://github.com/Cai-bird-one/live-software)]
-
-- **DiffuTester: Accelerating Unit Test Generation for Diffusion LLMs via Mining Structural Pattern**\\
-Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li†\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2509.24975)] [[code](https://github.com/wellbeingyang/DLM4UTG-open)]
 
 - **Enhancing the Transferability of Adversarial Attacks with Stealth Preservation**\\
 Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu†\\
