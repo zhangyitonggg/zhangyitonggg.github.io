@@ -46,7 +46,7 @@ Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li†\\
 
 - **DiffuCD: Efficient Contrastive Decoding for Diffusion Language Models**\\
 Jia Li, **<u>Yitong Zhang</u>**, Zhi Jin†\\
-**_Journal of Software_**\\
+**_Journal of Software_**
 
 - **Improving Sampling for Masked Diffusion Models via Information Gain**\\
 Kaisen Yang, Jayden Teoh, Kaicheng Yang, **<u>Yitong Zhang</u>**, Alex Lamb†\\
