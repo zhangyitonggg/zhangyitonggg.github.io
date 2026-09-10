@@ -39,13 +39,18 @@ My research interests center on developing trustworthy AI systems for real-world
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
+- **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation**\\
+Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li†, Liyi Cai, Ge Li\\
+**_ACM TOSEM_**\\
+[[paper](https://arxiv.org/pdf/2509.11252)] [[code](https://github.com/zhangyitonggg/dllm4code)]
+
 - **DiffuTester: Accelerating Unit Test Generation for Diffusion LLMs via Mining Structural Pattern**\\
 Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li†\\
 **_EMNLP MAIN 2026_**\\
 [[paper](https://arxiv.org/pdf/2509.24975)] [[code](https://github.com/wellbeingyang/DLM4UTG-open)]
 
 - **DiffuCD: Efficient Contrastive Decoding for Diffusion Language Models**\\
-Jia Li, **<u>Yitong Zhang</u>**, Zhi Jin†\\
+Jia Li, **<u>Yitong Zhang (Student First Author)</u>**, Zhi Jin†\\
 **_Journal of Software_**
 
 - **Improving Sampling for Masked Diffusion Models via Information Gain**\\
@@ -98,11 +103,6 @@ Zherui Li\*, Zheng Nie\*, Zhenhong Zhou, Yue Liu, **<u>Yitong Zhang</u>**, Yu Ch
 **_ICLR 2026_**\\
 **_NeurIPS 2025 Workshop_**\\
 [[paper](https://arxiv.org/pdf/2509.24296)] [[code](https://github.com/niez233/DiffuGuard)]
-
-- **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation**\\
-Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li†, Liyi Cai, Ge Li\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2509.11252)] [[code](https://github.com/zhangyitonggg/dllm4code)]
 
 - **AI-Driven Self-Evolving Software: A Promising Path Toward Software Automation**\\
 Liyi Cai\*, Yijie Ren\*, **<u>Yitong Zhang*</u>**, Jia Li†\\
