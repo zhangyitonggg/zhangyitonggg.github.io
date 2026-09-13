@@ -167,7 +167,8 @@ Lehui Li\*, Ruining Wang\*, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Ji
 
 ## 📚 Services
 
-* Reviewer: AAAI 2026
+* Conference Reviewer: AAAI 2026
+* Journal Reviewer: T-IFS
 
 ## 👩🏻‍🏫 Teaching
 
