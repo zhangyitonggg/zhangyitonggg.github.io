@@ -154,24 +154,18 @@ Lehui Li\*, Ruining Wang\*, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Ji
 - **Outstanding Student of Beijing**, *2026*
 - **Outstanding Student of Shandong**, *2022*
 
-## 📖 Education
+## 📖 Experience {#experience}
 
 - *2026.09 - 2031.06 (expected)*, Ph.D. Student, College of AI, Tsinghua University
+- *2026.06 - 2026.08*, Research Intern at [Ant Group](https://www.antgroup.com/en)
+- *2025.12 - 2026.03*, Research Intern at [Fitten](https://code.fittentech.com/)
 - *2022.09 - 2026.06*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
 - *2019.09 - 2022.06*, High School Student, Shandong Taian No.1 Senior High School
 
-## 💼 Internships
-
-* *2026.06 - 2026.08*, Research Intern at [Ant Group](https://www.antgroup.com/en)
-* *2025.12 - 2026.03*, Research Intern at [Fitten](https://code.fittentech.com/)
-
-## 📚 Services
+## 📚 Services {#services-and-teaching}
 
 * Conference Reviewer: AAAI 2026
 * Journal Reviewer: T-IFS
-
-## 👩🏻‍🏫 Teaching
-
 * Teaching Assistant, LLM-Driven Software Development, Tsinghua University, Fall 2026
 * Teaching Assistant, Discrete Mathematics, Beihang University, Spring 2025
 * Teaching Assistant, Computer Organization, Beihang University, Fall 2024

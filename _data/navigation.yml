@@ -15,17 +15,14 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Interns"
-    url: "/#-interns"
+  - title: "Experience"
+    url: "/#experience"
 
   - title: "Services"
-    url: "/#-services"
-  
-  - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#services-and-teaching"
+
+  - title: "Personality"
+    url: "/#-personality"
 
   - title: "Links"
     url: "/#-links"
