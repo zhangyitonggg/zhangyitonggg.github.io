@@ -172,6 +172,7 @@ Lehui Li\*, Ruining Wang\*, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Ji
 
 ## 👩🏻‍🏫 Teaching
 
+* Teaching Assistant, LLM-Driven Software Development, Tsinghua University, Fall 2026
 * Teaching Assistant, Discrete Mathematics, Beihang University, Spring 2025
 * Teaching Assistant, Computer Organization, Beihang University, Fall 2024
 * Senior Teaching Assistant, Data Structures and Programming, Beihang University, Spring 2024
@@ -182,7 +183,7 @@ In my spare time, I take food very seriously—my very high Engel's coefficient 
 
 ## 🔗 Links
 
-* **Advisors:** [Jia Li](https://lj2lijia.github.io/) (THU), [Xingwei Lin](https://xwlin-roy.github.io/) (Ant Group), [Aishan Liu](https://liuaishan.github.io/) (BUAA), [Fang Liu](https://liufang816.github.io/) (BUAA)
+* **Advisors:** [Jia Li](https://lj2lijia.github.io/) (THU), [Aishan Liu](https://liuaishan.github.io/) (BUAA), [Fang Liu](https://liufang816.github.io/) (BUAA)
   
 * **Co-authors:** [Zherui Li](https://zhrli324.github.io/) (NTU), [Tianyuan Zhang](https://tianyuan2001.github.io/) (BUAA), [Lehui Li](https://github.com/Amitica) (THU)
 
