@@ -1,0 +1,37 @@
+/* Paper surface only; typography and layout come from the original theme. */
+$paper: #faf9f5;
+
+html {
+  background-color: $paper;
+}
+
+body {
+  background-color: $paper;
+  background-image: url("../images/paper-grain.svg"),
+    linear-gradient(105deg, #fcfbf8 0%, #f8f7f2 52%, #fbfaf6 100%);
+  background-size: 320px 320px, 100% 100%;
+}
+
+.masthead {
+  background-color: $paper;
+  background-image: url("../images/paper-grain.svg");
+}
+
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav .hidden-links,
+.author__urls {
+  background-color: $paper;
+
+  &:after { border-bottom-color: $paper; }
+}
+
+@include breakpoint($large) {
+  .author__urls { background: transparent; }
+}
+
+@media print {
+  html, body, .masthead { background: #fff; }
+}

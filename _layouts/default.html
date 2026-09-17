@@ -11,10 +11,12 @@ layout: compress
 
   <body>
 
+    {% if page.permalink == '/' %}{% include intro.html %}{% endif %}
+
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div id="main" role="main">
+    <div id="main" role="main" tabindex="-1">
       {% include sidebar.html %}
     
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">

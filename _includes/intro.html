@@ -1,0 +1,14 @@
+<dialog class="intro" id="intro" lang="zh-CN" aria-label="开屏" aria-describedby="intro-description">
+  <div class="intro__page">
+    <div class="intro__quote">
+      <p class="intro__sr-only">{{ site.data.intro.lines | join: '' }}</p>
+      {% assign character_index = 0 %}
+      {% for line in site.data.intro.lines %}
+      <p class="intro__verse" aria-hidden="true">{% assign characters = line | split: '' %}{% for character in characters %}<span class="intro__char" style="--char-index: {{ character_index }}">{{ character }}</span>{% assign character_index = character_index | plus: 1 %}{% endfor %}</p>
+      {% endfor %}
+    </div>
+    <p class="intro__sr-only" id="intro-description" tabindex="-1" autofocus>开屏将在约八秒后自动进入主页。按 Enter 或 Escape 可立即跳过。</p>
+    <button class="intro__skip" type="button">进入主页</button>
+  </div>
+</dialog>
+<script src="{{ '/assets/js/intro.js' | relative_url }}"></script>
