@@ -9,7 +9,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+# Keep the existing dependency versions without GitHub Pages' forced safe mode.
+# Publishing uses the custom Actions build so local citation plugins can run.
+gem "github-pages", group: :jekyll_plugins, require: false
+gem "bibtex-ruby", "~> 6.2", require: "bibtex"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.

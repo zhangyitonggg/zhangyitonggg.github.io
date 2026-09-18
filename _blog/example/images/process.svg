@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+  <rect width="900" height="240" fill="#f0efe9"/>
+  <g fill="none" stroke="#b0b7a7" stroke-width="1.5">
+    <path d="M278 120h70m-8-5 8 5-8 5M552 120h70m-8-5 8 5-8 5"/>
+    <rect x="75" y="65" width="200" height="110"/>
+    <rect x="350" y="65" width="200" height="110"/>
+    <rect x="625" y="65" width="200" height="110"/>
+  </g>
+  <g fill="#33352f" font-family="STSong, Songti SC, serif" font-size="23" text-anchor="middle">
+    <text x="175" y="131">Question</text>
+    <text x="450" y="131">Method</text>
+    <text x="725" y="131">Open questions</text>
+  </g>
+</svg>

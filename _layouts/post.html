@@ -1,0 +1,28 @@
+---
+layout: blog
+---
+<article class="blog-post" itemscope itemtype="https://schema.org/BlogPosting">
+  <header class="blog-post__header">
+    <div class="blog-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: '%Y.%m.%d' }}</time>
+      {% if page.categories.size > 0 %}<span>{{ page.categories | join: ' / ' | escape }}</span>{% endif %}
+    </div>
+    <h1 itemprop="headline">{{ page.title | escape }}</h1>
+    {% if page.description %}<p class="blog-post__summary" itemprop="description">{{ page.description | escape }}</p>{% endif %}
+  </header>
+
+  <div class="blog-prose" itemprop="articleBody">
+    {{ content | blog_citations: page }}
+  </div>
+
+  {% if page.previous or page.next %}
+  <nav class="blog-post-nav" aria-label="Post navigation">
+    {% if page.previous %}
+    <a href="{{ page.previous.url | relative_url }}"><span>Previous</span>{{ page.previous.title | escape }}</a>
+    {% else %}<span></span>{% endif %}
+    {% if page.next %}
+    <a class="blog-post-nav__next" href="{{ page.next.url | relative_url }}"><span>Next</span>{{ page.next.title | escape }}</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+</article>

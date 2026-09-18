@@ -1,0 +1,30 @@
+---
+layout: blog
+title: Blog
+description: Notes and essays.
+permalink: /blog/
+author_profile: false
+---
+{% assign blog_posts = site.blog | sort: 'date' | reverse %}
+{% assign posts_by_year = blog_posts | group_by_exp: 'post', "post.date | date: '%Y'" %}
+{% for year in posts_by_year %}
+<section class="blog-year" aria-labelledby="year-{{ year.name }}">
+  <h2 class="blog-year__label" id="year-{{ year.name }}">{{ year.name }}</h2>
+  <div class="blog-year__entries">
+    {% for post in year.items %}
+    <article class="blog-entry">
+      <div class="blog-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%m.%d' }}</time>
+        {% if post.categories.size > 0 %}<span>{{ post.categories | join: ' / ' | escape }}</span>{% endif %}
+      </div>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+      <p>{{ post.description | default: post.excerpt | strip_html | normalize_whitespace | truncate: 150 }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% else %}
+<div class="blog-empty">
+  <p>No posts yet.</p>
+</div>
+{% endfor %}

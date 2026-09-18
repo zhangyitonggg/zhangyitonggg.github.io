@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="{{ page.lang | default: 'en' }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    <link rel="alternate" type="application/atom+xml" title="{{ site.author.name | escape }} — Blog" href="{{ '/feed.xml' | relative_url }}">
+  </head>
+  <body class="blog-site">
+    <a class="blog-skip" href="#blog-main">Skip to content</a>
+    <header class="blog-topbar{% if page.layout == 'post' %} blog-topbar--post{% endif %}">
+      {% if page.layout == 'post' %}
+      <a href="{{ '/blog/' | relative_url }}">← Blog</a>
+      {% else %}
+      <a href="{{ '/#about-me' | relative_url }}">← Homepage</a>
+      {% endif %}
+    </header>
+    <main id="blog-main" class="blog-shell{% if page.layout == 'post' %} blog-shell--post{% endif %}" tabindex="-1">
+      {{ content }}
+    </main>
+    {% include analytics.html %}
+  </body>
+</html>
