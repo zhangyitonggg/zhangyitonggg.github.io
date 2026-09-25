@@ -39,6 +39,12 @@ My research interests center on developing trustworthy AI systems for real-world
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
+- **Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamics Mechanisms and Efficient Alignment**\\
+Kun Wang\*, Zherui Li\*, Zhenhong Zhou, **<u>Yitong Zhang</u>**, Yan Mi, Kun Yang, Yiming Zhang, Junhao Dong, Zhongxiang Sun, Qiankun Li, Yang Liu\\
+**_NeurIPS 2026_**\\
+[[paper](https://arxiv.org/pdf/2602.10161)] [[code](https://github.com/zhrli324/omni-safety-research)]
+
+
 - **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation**\\
 Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li†, Liyi Cai, Ge Li\\
 **_ACM TOSEM_**\\
@@ -113,11 +119,6 @@ Liyi Cai\*, Yijie Ren\*, **<u>Yitong Zhang*</u>**, Jia Li†\\
 Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu†\\
 **_CVPR 2024 Workshop_**\\
 [[paper](https://openaccess.thecvf.com/content/CVPR2024W/AdvML/papers/Zhang_Enhancing_the_Transferability_of_Adversarial_Attacks_with_Stealth_Preservation_CVPRW_2024_paper.pdf)]
-
-- **Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamics Mechanisms and Efficient Alignment**\\
-Kun Wang\*, Zherui Li\*, Zhenhong Zhou, **<u>Yitong Zhang</u>**, Yan Mi, Kun Yang, Yiming Zhang, Junhao Dong, Zhongxiang Sun, Qiankun Li, Yang Liu\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2602.10161)] [[code](https://github.com/zhrli324/omni-safety-research)]
 
 - **Benchmarking the Robustness of Autonomous Driving to Environmental Illusions: A Lane Perception Perspective**\\
 Tianyuan Zhang, Xianglong Liu†, Aishan Liu, Lu Wang, **<u>Yitong Zhang</u>**, Peng Yue, Mingchuan Zhang, Siyuan Liang, Dacheng Tao\\
