@@ -39,6 +39,17 @@ My research interests center on developing trustworthy AI systems for real-world
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
+
+- **Safe Actions Alone Do Not Ensure Safe Agents: Identifying Unfulfilled Obligations with Guard Models**\\
+Youwei Feng, **<u>Yitong Zhang</u>**, Yuetong Liu, Jia Li†\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2610.11773v1)] [[code](https://github.com/THU-Agent/ObligationGuard)]
+
+- **SWE-DeceptionBench: Benchmarking Deceptive Behaviors of LLMs Across the Software Development Lifecycle**\\
+Xiting Liu, Lin Yang, **<u>Yitong Zhang</u>**, Jia Li, Shi-Min Hu\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2610.13626)] [[code](https://github.com/THU-Agent/SWE-DeceptionBench)]
+
 - **Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamics Mechanisms and Efficient Alignment**\\
 Kun Wang\*, Zherui Li\*, Zhenhong Zhou, **<u>Yitong Zhang</u>**, Yan Mi, Kun Yang, Yiming Zhang, Junhao Dong, Zhongxiang Sun, Qiankun Li, Yang Liu\\
 **_NeurIPS 2026_**\\
