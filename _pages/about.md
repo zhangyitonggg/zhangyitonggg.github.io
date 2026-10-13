@@ -23,6 +23,7 @@ My research interests center on developing trustworthy AI systems for real-world
 
 ## 🔥 News
 
+- *2026.09*: I was selected for the **CAST Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)**.
 - *2026.08*: I received the **CCF Elite Collegiate Award**.
 - *2026.05*: I was awarded the **Tsinghua Doctoral Fellowship for Future Scholars**, with only **4** recipients in the College of AI in 2026.
 - *2026.04*: Two papers have been directly accepted by ISSTA 2026, and one paper is under major revision.
@@ -154,6 +155,7 @@ Lehui Li\*, Ruining Wang\*, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Ji
 
 ## 🎖 Honors and Awards
 
+- **CAST Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)**, *2026*
 - **Tsinghua Doctoral Fellowship for Future Scholars**, *2026*
 - **Shen Yuan Medal (top 0.1%), the highest honor scholarship of Beihang University**, *2025* 
 - **Beihang Youth May Fourth Medal, the highest honor for youth members at Beihang University**, *2026*
