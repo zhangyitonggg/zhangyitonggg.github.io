@@ -40,6 +40,15 @@ My research interests center on developing trustworthy AI systems for real-world
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
+- **Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code**\\
+**<u>Yitong Zhang*</u>**, Shiteng Lu\*, Jia Li†\\
+**_ICSE 2027_**\\
+[[paper](https://arxiv.org/pdf/2606.11817)] [[code](https://github.com/TsinghuaISE/CodeSpear-CodeShield)]
+
+- **CoACT: Action-Preserving Observation Compression for Coding Agents**\\
+Haorui Chen, Yuancheng Zhu, **<u>Yitong Zhang</u>**, Jia Li†\\
+**_ICSE 2027_**\\
+[[paper](https://arxiv.org/pdf/2607.02911)] [[code](https://github.com/TsinghuaISE/CoACT)]
 
 - **Safe Actions Alone Do Not Ensure Safe Agents: Identifying Unfulfilled Obligations with Guard Models**\\
 Youwei Feng, **<u>Yitong Zhang</u>**, Yuetong Liu, Jia Li†\\
@@ -80,16 +89,6 @@ Kaisen Yang, Jayden Teoh, Kaicheng Yang, **<u>Yitong Zhang</u>**, Alex Lamb†\\
 Tianyuan Zhang\*, Lu Wang\*, Xinwei Zhang, **<u>Yitong Zhang</u>**, Boyi Jia, Siyuan Liang, Shengshan Hu, Qiang Fu, Aishan Liu†, Xianglong Liu\\
 **_Machine Intelligence Research_**\\
 [[paper](https://arxiv.org/pdf/2411.18275)]
-
-- **CoACT: Action-Preserving Observation Compression for Coding Agents**\\
-Haorui Chen, Yuancheng Zhu, **<u>Yitong Zhang</u>**, Jia Li†\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2607.02911)] [[code](https://github.com/TsinghuaISE/CoACT)]
-
-- **Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code**\\
-**<u>Yitong Zhang*</u>**, Shiteng Lu\*, Jia Li†\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2606.11817)] [[code](https://github.com/TsinghuaISE/CodeSpear-CodeShield)]
 
 - **Lookahead-then-Verify: Reliable Constrained Decoding for Diffusion LLMs under Context-Free Grammars**\\
 **<u>Yitong Zhang</u>**, Yongmin Li, Yuetong Liu, Jia Li†, Xiaoran Jia, Zherui Li, Ge Li\\
