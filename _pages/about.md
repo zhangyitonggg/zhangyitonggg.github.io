@@ -40,6 +40,11 @@ My research interests center on developing trustworthy AI systems for real-world
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
+- **To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation**\\
+**<u>Yitong Zhang*</u>**, Chengze Li\*, Ruize Chen\*, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li†\\
+**_ACM TOSEM_**\\
+[[paper](https://arxiv.org/pdf/2603.15159)] [[code](https://github.com/THU-Agent/PriCoder)]
+
 - **Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code**\\
 **<u>Yitong Zhang*</u>**, Shiteng Lu\*, Jia Li†\\
 **_ICSE 2027_**\\
@@ -64,7 +69,6 @@ Xiting Liu, Lin Yang, **<u>Yitong Zhang</u>**, Jia Li, Shi-Min Hu\\
 Kun Wang\*, Zherui Li\*, Zhenhong Zhou, **<u>Yitong Zhang</u>**, Yan Mi, Kun Yang, Yiming Zhang, Junhao Dong, Zhongxiang Sun, Qiankun Li, Yang Liu\\
 **_NeurIPS 2026_**\\
 [[paper](https://arxiv.org/pdf/2602.10161)] [[code](https://github.com/zhrli324/omni-safety-research)]
-
 
 - **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation**\\
 Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li†, Liyi Cai, Ge Li\\
@@ -109,11 +113,6 @@ Xiting Liu, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li†, Shi-Min Hu†\\
 **<u>Yitong Zhang</u>**, Jia Li†, Liyi Cai, Ge Li\\
 **_AAAI 2026 <span style="color:#8B0000;"><b>Oral</b></span>_** \\
 [[paper](https://arxiv.org/pdf/2506.09353)] [[code](https://github.com/zhangyitonggg/DAVSP)]
-
-- **To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation**\\
-**<u>Yitong Zhang*</u>**, Chengze Li\*, Ruize Chen\*, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li†\\
-**_Preprint_**\\
-[[paper](https://arxiv.org/pdf/2603.15159)] [[code](https://github.com/THU-Agent/PriCoder)]
 
 - **DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models**\\
 Zherui Li\*, Zheng Nie\*, Zhenhong Zhou, Yue Liu, **<u>Yitong Zhang</u>**, Yu Cheng, Qingsong Wen, Kun Wang†, Yufei Guo†, Jiaheng Zhang\\
