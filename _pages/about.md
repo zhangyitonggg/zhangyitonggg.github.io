@@ -40,6 +40,11 @@ My research interests center on developing trustworthy AI systems for real-world
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
+- **Can Coding Agents Sustain Continual Evolution without Forgetting?**\\
+Shangziqi Zhao, **<u>Yitong Zhang</u>**, Jia Li†\\
+**_Preprint_**\\
+[[paper](https://arxiv.org/pdf/2611.03219)] [[code](https://github.com/THU-Agent/continual-harness-evolution)]
+
 - **To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation**\\
 **<u>Yitong Zhang*</u>**, Chengze Li\*, Ruize Chen\*, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li†\\
 **_ACM TOSEM_**\\
