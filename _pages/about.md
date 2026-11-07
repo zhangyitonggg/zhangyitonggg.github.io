@@ -40,6 +40,11 @@ My research interests center on developing trustworthy AI systems for real-world
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
+- **Tools Need Not Speak in Text: Latent Context Compression for Agents**
+**_Preprint_**\\
+Yuetong Liu, Zhehao Zhou, **<u>Yitong Zhang</u>**, Haorui Chen, Jia Li†\\
+[[paper](https://arxiv.org/pdf/2611.06500)] [[code](https://github.com/THU-Agent/Coca-cola)]
+
 - **Can Coding Agents Sustain Continual Evolution without Forgetting?**\\
 Shangziqi Zhao, **<u>Yitong Zhang</u>**, Jia Li†\\
 **_Preprint_**\\
