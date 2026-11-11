@@ -54,6 +54,14 @@ AcadHomepage
 
 ## 本地调试
 
+### 维护论文列表
+
+论文统一维护在 [`_data/publications.yml`](../_data/publications.yml)，按文件中的顺序显示。每条记录的 `content` 使用 Markdown，`selected: true` 表示加入 Selected Publication，`selected: false` 表示只在 Full Publication 中显示。Full Publication 包含全部论文，无需重复维护两份列表。
+
+页面默认显示 Selected Publication，点击 Full Publication 可显示全部论文，也可以随时切回。初始精选范围为第一作者、共同第一作者及学生一作；后续通过 `selected` 字段手动调整。切换支持键盘操作，无需 JavaScript。
+
+### 启动本地预览
+
 1. 使用`git clone`将本项目克隆到本地。
 1. 安装Jekyll的构建环境，包括`Ruby`、`RubyGems`、`GCC`和`Make`。可参考[该教程](https://jekyllrb.com/docs/installation/#requirements)。
 1. 运行 `bash run_server.sh` 来启动Jekyll实时重载服务器。

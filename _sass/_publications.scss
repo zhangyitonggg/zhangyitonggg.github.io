@@ -1,0 +1,59 @@
+.publications {
+  position: relative;
+
+  // Keep native radio controls available to keyboard and screen-reader users.
+  .publications__view {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    clip-path: inset(50%);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .publications__option {
+    display: inline-block;
+    margin: 0 0.5em 1em 0;
+    padding: 0.45em 0.8em;
+    border: 1px solid $light-gray;
+    border-radius: $border-radius;
+    font-size: 0.9em;
+    font-weight: 600;
+    line-height: 1.5;
+
+    &:hover {
+      background-color: rgba($primary-color, 0.05);
+      border-color: $primary-color;
+    }
+  }
+
+  .publications__view:checked + .publications__option {
+    color: $link-color;
+    background-color: rgba($link-color, 0.08);
+    border-color: $link-color;
+  }
+
+  .publications__view:focus-visible + .publications__option {
+    outline: 2px solid $link-color;
+    outline-offset: 3px;
+  }
+
+  .publications__count {
+    font-weight: normal;
+  }
+
+  // Native radio state also makes the switch work without JavaScript.
+  #publications-selected:checked ~ .publications__list > .publications__additional {
+    display: none;
+  }
+}
+
+@media print {
+  .publications .publications__option {
+    display: none;
+  }
+}

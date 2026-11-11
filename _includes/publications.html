@@ -1,0 +1,17 @@
+{% assign selected_publications = site.data.publications | where: "selected", true %}
+<h2 id="-selected-publications">📝 Publications</h2>
+
+<div class="publications" role="region" aria-labelledby="-selected-publications">
+  <input class="publications__view" type="radio" name="publication-view" id="publications-selected" value="selected" aria-controls="publications-list" autocomplete="off" checked>
+  <label class="publications__option" for="publications-selected">Selected Publication <span class="publications__count">({{ selected_publications.size }})</span></label>
+  <input class="publications__view" type="radio" name="publication-view" id="publications-full" value="full" aria-controls="publications-list" autocomplete="off">
+  <label class="publications__option" for="publications-full">Full Publication <span class="publications__count">({{ site.data.publications.size }})</span></label>
+
+  <p><strong><em>* indicates author with equal contribution and † indicates corresponding author.</em></strong></p>
+
+  <ul class="publications__list" id="publications-list">
+    {% for publication in site.data.publications %}
+    <li{% unless publication.selected %} class="publications__additional"{% endunless %}>{{ publication.content | markdownify }}</li>
+    {% endfor %}
+  </ul>
+</div>

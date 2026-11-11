@@ -1,0 +1,156 @@
+# Keep papers in display order. Set selected: true to include a paper in Selected Publication.
+# The initial selection includes first, co-first, and student-first authored papers.
+
+- selected: false
+  content: |-
+    **Tools Need Not Speak in Text: Latent Context Compression for Agents**\\
+    **_Preprint_**\\
+    Yuetong Liu, Zhehao Zhou, **<u>Yitong Zhang</u>**, Haorui Chen, Jia Li†\\
+    [[paper](https://arxiv.org/pdf/2611.06500)] [[code](https://github.com/THU-Agent/Coca-cola)]
+
+- selected: false
+  content: |-
+    **Can Coding Agents Sustain Continual Evolution without Forgetting?**\\
+    Shangziqi Zhao, **<u>Yitong Zhang</u>**, Jia Li†\\
+    **_Preprint_**\\
+    [[paper](https://arxiv.org/pdf/2611.03219)] [[code](https://github.com/THU-Agent/continual-harness-evolution)]
+
+- selected: true
+  content: |-
+    **To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation**\\
+    **<u>Yitong Zhang*</u>**, Chengze Li\*, Ruize Chen\*, Guowei Yang, Xiaoran Jia, Yijie Ren, Jia Li†\\
+    **_ACM TOSEM_**\\
+    [[paper](https://arxiv.org/pdf/2603.15159)] [[code](https://github.com/THU-Agent/PriCoder)]
+
+- selected: true
+  content: |-
+    **Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code**\\
+    **<u>Yitong Zhang*</u>**, Shiteng Lu\*, Jia Li†\\
+    **_ICSE 2027_**\\
+    [[paper](https://arxiv.org/pdf/2606.11817)] [[code](https://github.com/TsinghuaISE/CodeSpear-CodeShield)]
+
+- selected: false
+  content: |-
+    **CoACT: Action-Preserving Observation Compression for Coding Agents**\\
+    Haorui Chen, Yuancheng Zhu, **<u>Yitong Zhang</u>**, Jia Li†\\
+    **_ICSE 2027_**\\
+    [[paper](https://arxiv.org/pdf/2607.02911)] [[code](https://github.com/TsinghuaISE/CoACT)]
+
+- selected: false
+  content: |-
+    **Safe Actions Alone Do Not Ensure Safe Agents: Identifying Unfulfilled Obligations with Guard Models**\\
+    Youwei Feng, **<u>Yitong Zhang</u>**, Yuetong Liu, Jia Li†\\
+    **_Preprint_**\\
+    [[paper](https://arxiv.org/pdf/2610.11773v1)] [[code](https://github.com/THU-Agent/ObligationGuard)]
+
+- selected: false
+  content: |-
+    **SWE-DeceptionBench: Benchmarking Deceptive Behaviors of LLMs Across the Software Development Lifecycle**\\
+    Xiting Liu, Lin Yang, **<u>Yitong Zhang</u>**, Jia Li, Shi-Min Hu\\
+    **_Preprint_**\\
+    [[paper](https://arxiv.org/pdf/2610.13626)] [[code](https://github.com/THU-Agent/SWE-DeceptionBench)]
+
+- selected: false
+  content: |-
+    **Omni-Safety under Cross-Modality Conflict: Vulnerabilities, Dynamics Mechanisms and Efficient Alignment**\\
+    Kun Wang\*, Zherui Li\*, Zhenhong Zhou, **<u>Yitong Zhang</u>**, Yan Mi, Kun Yang, Yiming Zhang, Junhao Dong, Zhongxiang Sun, Qiankun Li, Yang Liu\\
+    **_NeurIPS 2026_**\\
+    [[paper](https://arxiv.org/pdf/2602.10161)] [[code](https://github.com/zhrli324/omni-safety-research)]
+
+- selected: true
+  content: |-
+    **Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation**\\
+    Chengze Li\*, **<u>Yitong Zhang*</u>**, Jia Li†, Liyi Cai, Ge Li\\
+    **_ACM TOSEM_**\\
+    [[paper](https://arxiv.org/pdf/2509.11252)] [[code](https://github.com/zhangyitonggg/dllm4code)]
+
+- selected: false
+  content: |-
+    **DiffuTester: Accelerating Unit Test Generation for Diffusion LLMs via Mining Structural Pattern**\\
+    Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li†\\
+    **_EMNLP MAIN 2026_**\\
+    [[paper](https://arxiv.org/pdf/2509.24975)] [[code](https://github.com/wellbeingyang/DLM4UTG-open)]
+
+- selected: true
+  content: |-
+    **DiffuCD: Efficient Contrastive Decoding for Diffusion Language Models**\\
+    Jia Li, **<u>Yitong Zhang (Student First Author)</u>**, Zhi Jin†\\
+    **_Journal of Software_**
+
+- selected: false
+  content: |-
+    **Improving Sampling for Masked Diffusion Models via Information Gain**\\
+    Kaisen Yang, Jayden Teoh, Kaicheng Yang, **<u>Yitong Zhang</u>**, Alex Lamb†\\
+    **_ICML 2026_**\\
+    [[paper](https://arxiv.org/pdf/2602.18176)] [[code](https://github.com/yks23/Information-Gain-Sampler)]
+
+- selected: false
+  content: |-
+    **Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**\\
+    Tianyuan Zhang\*, Lu Wang\*, Xinwei Zhang, **<u>Yitong Zhang</u>**, Boyi Jia, Siyuan Liang, Shengshan Hu, Qiang Fu, Aishan Liu†, Xianglong Liu\\
+    **_Machine Intelligence Research_**\\
+    [[paper](https://arxiv.org/pdf/2411.18275)]
+
+- selected: true
+  content: |-
+    **Lookahead-then-Verify: Reliable Constrained Decoding for Diffusion LLMs under Context-Free Grammars**\\
+    **<u>Yitong Zhang</u>**, Yongmin Li, Yuetong Liu, Jia Li†, Xiaoran Jia, Zherui Li, Ge Li\\
+    **_ISSTA 2026_**\\
+    [[paper](https://arxiv.org/pdf/2602.00612)] [[code](https://github.com/zhangyitonggg/CD4dLLM)]
+
+- selected: true
+  content: |-
+    **Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments**\\
+    **<u>Yitong Zhang</u>**, Ximo Li, Liyi Cai, Jia Li†\\
+    **_ISSTA 2026_**\\
+    [[paper](https://arxiv.org/pdf/2509.11250)] [[code](https://github.com/zhangyitonggg/attack2gui)]
+
+- selected: false
+  content: |-
+    **PackMonitor: Enabling Zero Package Hallucinations Through Decoding-Time Monitoring**\\
+    Xiting Liu, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li†, Shi-Min Hu†\\
+    **_ISSTA 2026_**\\
+    [[paper](https://arxiv.org/pdf/2602.20717)] [[code](https://github.com/TsinghuaISE/PackMonitor)]
+
+- selected: true
+  content: |-
+    **DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**\\
+    **<u>Yitong Zhang</u>**, Jia Li†, Liyi Cai, Ge Li\\
+    **_AAAI 2026 <span style="color:#8B0000;"><b>Oral</b></span>_** \\
+    [[paper](https://arxiv.org/pdf/2506.09353)] [[code](https://github.com/zhangyitonggg/DAVSP)]
+
+- selected: false
+  content: |-
+    **DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models**\\
+    Zherui Li\*, Zheng Nie\*, Zhenhong Zhou, Yue Liu, **<u>Yitong Zhang</u>**, Yu Cheng, Qingsong Wen, Kun Wang†, Yufei Guo†, Jiaheng Zhang\\
+    **_ICLR 2026_**\\
+    **_NeurIPS 2025 Workshop_**\\
+    [[paper](https://arxiv.org/pdf/2509.24296)] [[code](https://github.com/niez233/DiffuGuard)]
+
+- selected: true
+  content: |-
+    **AI-Driven Self-Evolving Software: A Promising Path Toward Software Automation**\\
+    Liyi Cai\*, Yijie Ren\*, **<u>Yitong Zhang*</u>**, Jia Li†\\
+    **_Preprint_**\\
+    [[paper](https://arxiv.org/pdf/2510.00591)] [[code](https://github.com/Cai-bird-one/live-software)]
+
+- selected: false
+  content: |-
+    **Enhancing the Transferability of Adversarial Attacks with Stealth Preservation**\\
+    Xinwei Zhang, Tianyuan Zhang, **<u>Yitong Zhang</u>**, Shuangcheng Liu†\\
+    **_CVPR 2024 Workshop_**\\
+    [[paper](https://openaccess.thecvf.com/content/CVPR2024W/AdvML/papers/Zhang_Enhancing_the_Transferability_of_Adversarial_Attacks_with_Stealth_Preservation_CVPRW_2024_paper.pdf)]
+
+- selected: false
+  content: |-
+    **Benchmarking the Robustness of Autonomous Driving to Environmental Illusions: A Lane Perception Perspective**\\
+    Tianyuan Zhang, Xianglong Liu†, Aishan Liu, Lu Wang, **<u>Yitong Zhang</u>**, Peng Yue, Mingchuan Zhang, Siyuan Liang, Dacheng Tao\\
+    **TPAMI**\\
+    [[paper](https://ieeexplore.ieee.org/document/11595247)] [[code](https://tianyuan2001.github.io/lanevilpp.github.io/)]
+
+- selected: false
+  content: |-
+    **What Papers Don't Tell You: Recovering Tacit Knowledge for Automated Paper Reproduction**\\
+    Lehui Li\*, Ruining Wang\*, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Jiayi Fan, **<u>Yitong Zhang</u>**, Jieping Ye, Chengqi Zhang, Yongshun Gong†\\
+    **_Preprint_**\\
+    [[paper](https://arxiv.org/pdf/2603.01801)]

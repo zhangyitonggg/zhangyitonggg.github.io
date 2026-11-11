@@ -27,5 +27,5 @@ main:
   - title: "Personality"
     url: "/#-personality"
 
-  - title: "Links"
-    url: "/#-links"
+  # - title: "Links"
+  #   url: "/#-links"
