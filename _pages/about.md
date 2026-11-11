@@ -17,30 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yitong Zhang (<font face=STSong>张奕彤</font>), a Ph.D. student at [College of AI](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). Before that, I received my undergraduate education at [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I ranked 2nd in my college in required courses (2/241). I am currently working under the supervision of Prof. [Jia Li](https://lj2lijia.github.io/), and collaborate closely with [Zherui](https://zhrli324.github.io/).
+I'm Yitong Zhang (<font face=STSong>张奕彤</font>), a Ph.D. student at [College of AI](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). Before that, I received my undergraduate education at [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/).
 
 My research interests center on developing trustworthy AI systems for real-world deployment. More broadly, I am interested in AI-related topics in general. If you are interested in potential collaborations or would like to discuss anything, please feel free to reach out via email. Here is my [CV](/assets/CV.pdf).
 
 ## 🔥 News
 
 - *2026.09*: I was selected for the **CAST Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)**.
-- *2026.08*: I received the **CCF Elite Collegiate Award**.
+<!-- - *2026.08*: I received the **CCF Elite Collegiate Award**. -->
 - *2026.05*: I was awarded the **Tsinghua Doctoral Fellowship for Future Scholars**, with only **4** recipients in the College of AI in 2026.
-- *2026.04*: Two papers have been directly accepted by ISSTA 2026, and one paper is under major revision.
+<!-- - *2026.04*: Two papers have been directly accepted by ISSTA 2026, and one paper is under major revision. -->
 - *2026.04*: I was awarded the **Beihang Youth May Fourth Medal** (only **10 undergraduates** university-wide).
-- *2026.01*: I was honored with the **Outstanding Student of Beijing**.
+<!-- - *2026.01*: I was honored with the **Outstanding Student of Beijing**. -->
 - *2025.11*: I was awarded the **Shen Yuan Medal**, **the highest student honor at Beihang University**. Among all undergraduates at Beihang, only **10** students received this distinction.
-- *2025.11*: 1 Paper (as **first author**) accepted by **AAAI 2026 (Oral)**.
-- *2025.10*: I was admitted to the College of AI, Tsinghua University for Ph.D. studies (comprehensive evaluation score: **95.8**).  
-- *2025.10*: I received the **National Scholarship** (for the **3rd time**).
-- *2024.11*: I received the **Xiaomi Scholarship Special Prize**.
+<!-- - *2025.11*: 1 Paper (as **first author**) accepted by **AAAI 2026 (Oral)**. -->
+<!-- - *2025.10*: I was admitted to the College of AI, Tsinghua University for Ph.D. studies (comprehensive evaluation score: **95.8**).   -->
+<!-- - *2025.10*: I received the **National Scholarship** (for the **3rd time**). -->
+<!-- - *2024.11*: I received the **Xiaomi Scholarship Special Prize**. -->
 - *2024.10*: My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
 
 ## 📝 Selected Publications 
 
 **_\* indicates author with equal contribution and † indicates corresponding author._**
 
-- **Tools Need Not Speak in Text: Latent Context Compression for Agents**
+- **Tools Need Not Speak in Text: Latent Context Compression for Agents**\\
 **_Preprint_**\\
 Yuetong Liu, Zhehao Zhou, **<u>Yitong Zhang</u>**, Haorui Chen, Jia Li†\\
 [[paper](https://arxiv.org/pdf/2611.06500)] [[code](https://github.com/THU-Agent/Coca-cola)]
@@ -178,10 +178,11 @@ Lehui Li\*, Ruining Wang\*, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Ji
 
 ## 📖 Experience {#experience}
 
-- *2026.09 - 2031.06 (expected)*, Ph.D. Student, College of AI, Tsinghua University
-- *2026.06 - 2026.08*, Research Intern at [Ant Group](https://www.antgroup.com/en)
+- *2026.11 - Present*, Research Intern (Ant Star) at [Ant Group](https://www.antgroup.com/en), Advised by [Xinhao Deng](https://xinhao-deng.github.io/)
+- *2026.09 - 2031.06 (expected)*, Ph.D. Student, College of AI, Tsinghua University, Advised by [Jia Li](https://lj2lijia.github.io/)
+- *2026.06 - 2026.08*, Research Intern at [Ant Group](https://www.antgroup.com/en), Advised by [Xinwei Lin](https://xwlin-roy.github.io/)
 - *2025.12 - 2026.03*, Research Intern at [Fitten](https://code.fittentech.com/)
-- *2022.09 - 2026.06*, Undergraduate Student, School of Computer Science and Engineering, Beihang University
+- *2022.09 - 2026.06*, Undergraduate Student, School of Computer Science and Engineering, Beihang University, Advised by [Aishan Liu](https://liuaishan.github.io/) and [Fang Liu](https://liufang816.github.io/)
 - *2019.09 - 2022.06*, High School Student, Shandong Taian No.1 Senior High School
 
 ## 📚 Services {#services-and-teaching}
@@ -197,10 +198,10 @@ Lehui Li\*, Ruining Wang\*, Haochen Song, Yaoxin Mao, Tong Zhang, Yuyao Wang, Ji
 
 In my spare time, I take food very seriously—my very high Engel's coefficient says it all. When I am not eating, I am usually listening to folk or rock music, or walking aimlessly around Beijing with friends.
 
-## 🔗 Links
+<!-- ## 🔗 Links
 
 * **Advisors:** [Jia Li](https://lj2lijia.github.io/) (THU), [Aishan Liu](https://liuaishan.github.io/) (BUAA), [Fang Liu](https://liufang816.github.io/) (BUAA)
   
-* **Co-authors:** [Zherui Li](https://zhrli324.github.io/) (NTU), [Tianyuan Zhang](https://tianyuan2001.github.io/) (BUAA), [Lehui Li](https://github.com/Amitica) (THU)
+* **Co-authors:** [Zherui Li](https://zhrli324.github.io/) (NTU), [Tianyuan Zhang](https://tianyuan2001.github.io/) (BUAA), [Lehui Li](https://github.com/Amitica) (THU) -->
 
 *In the age of artificial intelligence, I strive to advance technology for the greater good, for safe and controllable progress, and for the benefit of the people (<font face=STSong>推动科技向上向善、安全可控、造福人民</font>).*
