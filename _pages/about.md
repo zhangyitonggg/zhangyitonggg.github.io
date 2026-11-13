@@ -21,20 +21,20 @@ I'm Yitong Zhang (<font face=STSong>张奕彤</font>), a Ph.D. student at [Colle
 
 My research interests center on developing trustworthy AI systems for real-world deployment. More broadly, I am interested in AI-related topics in general. If you are interested in potential collaborations or would like to discuss anything, please feel free to reach out via email. Here is my [CV](/assets/CV.pdf).
 
-## 🔥 News
+<!-- ## 🔥 News
 
 - *2026.09*: I was selected for the **CAST Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)**.
 <!-- - *2026.08*: I received the **CCF Elite Collegiate Award**. -->
-- *2026.05*: I was awarded the **Tsinghua Doctoral Fellowship for Future Scholars**, with only **4** recipients in the College of AI in 2026.
+<!-- - *2026.05*: I was awarded the **Tsinghua Doctoral Fellowship for Future Scholars**, with only **4** recipients in the College of AI in 2026. -->
 <!-- - *2026.04*: Two papers have been directly accepted by ISSTA 2026, and one paper is under major revision. -->
-- *2026.04*: I was awarded the **Beihang Youth May Fourth Medal** (only **10 undergraduates** university-wide).
+<!-- - *2026.04*: I was awarded the **Beihang Youth May Fourth Medal** (only **10 undergraduates** university-wide). -->
 <!-- - *2026.01*: I was honored with the **Outstanding Student of Beijing**. -->
-- *2025.11*: I was awarded the **Shen Yuan Medal**, **the highest student honor at Beihang University**. Among all undergraduates at Beihang, only **10** students received this distinction.
+<!-- - *2025.11*: I was awarded the **Shen Yuan Medal**, **the highest student honor at Beihang University**. Among all undergraduates at Beihang, only **10** students received this distinction. -->
 <!-- - *2025.11*: 1 Paper (as **first author**) accepted by **AAAI 2026 (Oral)**. -->
 <!-- - *2025.10*: I was admitted to the College of AI, Tsinghua University for Ph.D. studies (comprehensive evaluation score: **95.8**).   -->
 <!-- - *2025.10*: I received the **National Scholarship** (for the **3rd time**). -->
 <!-- - *2024.11*: I received the **Xiaomi Scholarship Special Prize**. -->
-- *2024.10*: My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**.
+<!-- - *2024.10*: My research grant (as **Principal Investigator**) is approved by **Beijing Natural Science Foundation**. --> 
 
 {% include publications.html %}
 
