@@ -63,7 +63,7 @@ My research interests center on developing trustworthy AI systems for real-world
 
 - *2026.11 - Present*, Research Intern (Ant Star) at [Ant Group](https://www.antgroup.com/en), Advised by [Xinhao Deng](https://xinhao-deng.github.io/)
 - *2026.09 - 2031.06 (expected)*, Ph.D. Student, College of AI, Tsinghua University, Advised by [Jia Li](https://lj2lijia.github.io/)
-- *2026.06 - 2026.08*, Research Intern at [Ant Group](https://www.antgroup.com/en), Advised by [Xinwei Lin](https://xwlin-roy.github.io/)
+- *2026.06 - 2026.08*, Research Intern at [Ant Group](https://www.antgroup.com/en), Advised by [Xingwei Lin](https://xwlin-roy.github.io/)
 - *2025.12 - 2026.03*, Research Intern at [Fitten](https://code.fittentech.com/)
 - *2022.09 - 2026.06*, Undergraduate Student, School of Computer Science and Engineering, Beihang University, Advised by [Aishan Liu](https://liuaishan.github.io/)
 - *2019.09 - 2022.06*, High School Student, Shandong Taian No.1 Senior High School
