@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Yitong Zhang (<font face=STSong>张奕彤</font>), a Ph.D. student at [College of AI](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). Before that, I received my undergraduate education at [School of Computer Science and Engineering](https://scse.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/).
-
-My research interests center on developing trustworthy AI systems for real-world deployment. More broadly, I am interested in AI-related topics in general. If you are interested in potential collaborations or would like to discuss anything, please feel free to reach out via email. Here is my [CV](/assets/CV.pdf).
+I'm Yitong Zhang (<font face=STSong>张奕彤</font>), a Ph.D. student at [College of AI](https://collegeai.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interests center on developing trustworthy AI systems for real-world deployment. More broadly, I am interested in AI-related topics in general. If you are interested in potential collaborations or would like to discuss anything, please feel free to reach out via email.
 
 <!-- ## 🔥 News
 
