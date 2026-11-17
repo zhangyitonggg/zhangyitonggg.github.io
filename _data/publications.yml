@@ -27,14 +27,14 @@
     **Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code**\\
     **<u>Yitong Zhang*</u>**, Shiteng Lu\*, Jia Li†\\
     **_ICSE 2027_**\\
-    [[paper](https://arxiv.org/pdf/2606.11817)] [[code](https://github.com/TsinghuaISE/CodeSpear-CodeShield)]
+    [[paper](https://arxiv.org/pdf/2606.11817)] [[code](https://github.com/TsinghuaISE/CodeSpear-CodeShield)] [[news](https://mp.weixin.qq.com/s/lYSM_wyUuSmUFwzzg1dADg)]
 
 - selected: false
   content: |-
     **CoACT: Action-Preserving Observation Compression for Coding Agents**\\
     Haorui Chen, Yuancheng Zhu, **<u>Yitong Zhang</u>**, Jia Li†\\
     **_ICSE 2027_**\\
-    [[paper](https://arxiv.org/pdf/2607.02911)] [[code](https://github.com/TsinghuaISE/CoACT)]
+    [[paper](https://arxiv.org/pdf/2607.02911)] [[code](https://github.com/TsinghuaISE/CoACT)] [[news](https://mp.weixin.qq.com/s/ryId58B7OK5j1Ja6HA80eQ)]
 
 - selected: false
   content: |-
@@ -69,13 +69,14 @@
     **DiffuTester: Accelerating Unit Test Generation for Diffusion LLMs via Mining Structural Pattern**\\
     Lekang Yang, Yuetong Liu, **<u>Yitong Zhang</u>**, Jia Li†\\
     **_EMNLP MAIN 2026_**\\
-    [[paper](https://arxiv.org/pdf/2509.24975)] [[code](https://github.com/wellbeingyang/DLM4UTG-open)]
+    [[paper](https://arxiv.org/pdf/2509.24975)] [[code](https://github.com/wellbeingyang/DLM4UTG-open)] [[news](https://mp.weixin.qq.com/s/4tJhXWl32ohfz1N6XtHcnw)]
 
 - selected: true
   content: |-
     **DiffuCD: Efficient Contrastive Decoding for Diffusion Language Models**\\
     Jia Li, **<u>Yitong Zhang (Student First Author)</u>**, Zhi Jin†\\
-    **_Journal of Software_**
+    **_Journal of Software_**\\
+    [[paper](https://www.jos.org.cn/html/7751.htm)] [[code](https://github.com/THU-Agent/DiffuCD)]
 
 - selected: false
   content: |-
@@ -89,14 +90,14 @@
     **Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**\\
     Tianyuan Zhang\*, Lu Wang\*, Xinwei Zhang, **<u>Yitong Zhang</u>**, Boyi Jia, Siyuan Liang, Shengshan Hu, Qiang Fu, Aishan Liu†, Xianglong Liu\\
     **_Machine Intelligence Research_**\\
-    [[paper](https://arxiv.org/pdf/2411.18275)]
+    [[paper](https://arxiv.org/pdf/2411.18275)] [[news](https://mp.weixin.qq.com/s/D1opW9ZvzqhmOi_Rn4oNjQ)]
 
 - selected: true
   content: |-
     **Lookahead-then-Verify: Reliable Constrained Decoding for Diffusion LLMs under Context-Free Grammars**\\
     **<u>Yitong Zhang</u>**, Yongmin Li, Yuetong Liu, Jia Li†, Xiaoran Jia, Zherui Li, Ge Li\\
     **_ISSTA 2026_**\\
-    [[paper](https://arxiv.org/pdf/2602.00612)] [[code](https://github.com/zhangyitonggg/CD4dLLM)]
+    [[paper](https://arxiv.org/pdf/2602.00612)] [[code](https://github.com/zhangyitonggg/CD4dLLM)] [[news](https://mp.weixin.qq.com/s/fKS9CYv7-yzyFPrWsNGGdQ)]
 
 - selected: true
   content: |-
@@ -117,7 +118,7 @@
     **DAVSP: Safety Alignment for Large Vision-Language Models via Deep Aligned Visual Safety Prompt**\\
     **<u>Yitong Zhang</u>**, Jia Li†, Liyi Cai, Ge Li\\
     **_AAAI 2026 <span style="color:#8B0000;"><b>Oral</b></span>_** \\
-    [[paper](https://arxiv.org/pdf/2506.09353)] [[code](https://github.com/zhangyitonggg/DAVSP)]
+    [[paper](https://arxiv.org/pdf/2506.09353)] [[code](https://github.com/zhangyitonggg/DAVSP)] [[news](https://mp.weixin.qq.com/s/7hP6U1CH9trX_epsoX5lqQ)]
 
 - selected: false
   content: |-
